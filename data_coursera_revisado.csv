@@ -1,0 +1,479 @@
+,course_title,course_rating,course_difficulty,course_students_enrolled,idioma,Plataforma
+0,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,4.7,Intermediate,17k,Ingles,Coursera
+1,A Crash Course in Data Science,4.5,Mixed,130k,Ingles,Coursera
+2,A Law Student's Toolkit,4.7,Mixed,91k,Ingles,Coursera
+3,AI For Everyone,4.8,Beginner,350k,Ingles,Coursera
+4,AI for Medical Diagnosis,4.7,Intermediate,12k,Ingles,Coursera
+5,AI for Medical Prognosis,4.6,Intermediate,4k,Ingles,Coursera
+6,AWS Fundamentals: Addressing Security Risk,4.3,Beginner,11k,Ingles,Coursera
+7,AWS Fundamentals: Going Cloud-Native,4.7,Beginner,110k,Ingles,Coursera
+8,Aboriginal Worldviews and Education,4.7,Mixed,6.6k,Ingles,Coursera
+9,Access Controls,4.6,Beginner,2.9k,Ingles,Coursera
+10,Accounting Analytics,4.5,Mixed,80k,Ingles,Coursera
+11,Actualización en el manejo del paciente con diabetes mellitus tipo 2,4.8,Mixed,23k,Español,Coursera
+12,Addiction Treatment: Clinical Skills for Healthcare Providers,4.8,Beginner,9.2k,Ingles,Coursera
+13,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",4.7,Advanced,29k,Ingles,Coursera
+14,Advertising and Society,4.8,Mixed,14k,Ingles,Coursera
+15,Agile Meets Design Thinking,4.7,Beginner,69k,Ingles,Coursera
+16,Agile with Atlassian Jira,4.7,Beginner,40k,Ingles,Coursera
+17,Agile и Scrum в работе над проектами и продуктами,4.9,Beginner,12k,Ruso,Coursera
+18,Algorithmic Toolbox,4.7,Intermediate,220k,Ingles,Coursera
+19,American Contract Law I,4.9,Beginner,18k,Ingles,Coursera
+20,An Introduction to American Law,4.8,Beginner,23k,Ingles,Coursera
+21,An Introduction to Consumer Neuroscience & Neuromarketing,4.7,Beginner,69k,Ingles,Coursera
+22,"Anatomy of the Chest, Abdomen, and Pelvis",4.8,Intermediate,36k,Ingles,Coursera
+23,Anatomy: Musculoskeletal and Integumentary Systems,4.8,Beginner,20k,Ingles,Coursera
+24,Animal Behaviour and Welfare,4.8,Mixed,71k,Ingles,Coursera
+25,Antibiotic Stewardship,4.5,Advanced,11k,Ingles,Coursera
+26,Anticorrupción: Introducción a conceptos y perspectiva práctica,4.8,Beginner,11k,Español,Coursera
+27,Applied Data Science Capstone,4.7,Intermediate,42k,Ingles,Coursera
+28,Applied Machine Learning in Python,4.6,Intermediate,150k,Ingles,Coursera
+29,"Applied Plotting, Charting & Data Representation in Python",4.6,Intermediate,97k,Ingles,Coursera
+30,Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),4.9,Beginner,180k,Español,Coursera
+31,Arts and Heritage Management,4.8,Mixed,15k,Ingles,Coursera
+32,Autism Spectrum Disorder,4.6,Mixed,56k,Ingles,Coursera
+33,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,4.7,Advanced,22k,Ingles,Coursera
+34,Autodesk Certified Professional: Revit for Architectural Design Exam Prep,4.7,Advanced,9.7k,Ingles,Coursera
+35,Basic Statistics,4.6,Beginner,180k,Ingles,Coursera
+36,Bayesian Statistics: From Concept to Data Analysis,4.8,Intermediate,91k,Ingles,Coursera
+37,Bayesian Statistics: Techniques and Models,4.8,Intermediate,29k,Ingles,Coursera
+38,Become a CBRS Certified Professional Installer by Google,4.9,Mixed,210k,Ingles,Coursera
+39,Becoming a changemaker: Introduction to Social Innovation,4.8,Beginner,61k,Ingles,Coursera
+40,Behavioral Finance,4.4,Mixed,55k,Ingles,Coursera
+41,Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,4.6,Mixed,2.3k,Ingles,Coursera
+42,Biohacking Your Brain's Health,4.6,Beginner,35k,Ingles,Coursera
+43,Biology Meets Programming: Bioinformatics for Beginners,4.4,Beginner,88k,Ingles,Coursera
+44,"Brand Management: Aligning Business, Brand and Behaviour",4.9,Beginner,57k,Ingles,Coursera
+45,Budgeting and Scheduling Projects,4.7,Mixed,84k,Ingles,Coursera
+46,Bugs 101: Insect-Human Interactions,4.9,Beginner,15k,Ingles,Coursera
+47,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),4.9,Mixed,95k,Ingles,Coursera
+48,Building Batch Data Pipelines on GCP,4.5,Intermediate,7.3k,Ingles,Coursera
+49,Building Conversational Experiences with Dialogflow,4.5,Beginner,22k,Ingles,Coursera
+50,Building Scalable Java Microservices with Spring Boot and Spring Cloud,4.3,Intermediate,24k,Ingles,Coursera
+51,Business English: Networking,4.7,Intermediate,77k,Ingles,Coursera
+52,Business Model Innovation,4.7,Mixed,13k,Ingles,Coursera
+53,Business Transformation with Google Cloud,4.7,Beginner,10k,Ingles,Coursera
+54,Business Writing,4.8,Beginner,48k,Ingles,Coursera
+55,C for Everyone: Programming Fundamentals,4.5,Beginner,31k,Ingles,Coursera
+56,COVID-19: What You Need to Know (CME Eligible),4.8,Beginner,32k,Ingles,Coursera
+57,"Cameras, Exposure, and Photography",4.7,Mixed,130k,Ingles,Coursera
+58,Camino a la Excelencia en Gestión de Proyectos,4.7,Beginner,340k,Español,Coursera
+59,"Capstone: Retrieving, Processing, and Visualizing Data with Python",4.6,Mixed,82k,Ingles,Coursera
+60,Challenging Forensic Science: How Science Should Speak to Court,4.8,Beginner,31k,Ingles,Coursera
+61,Chemicals and Health,4.7,Beginner,23k,Ingles,Coursera
+62,Child Nutrition and Cooking,4.7,Beginner,30k,Ingles,Coursera
+63,Classical Sociological Theory,4.8,Mixed,51k,Ingles,Coursera
+64,Clinical Terminology for International and U.S. Students,4.8,Beginner,32k,Ingles,Coursera
+65,Code Yourself! An Introduction to Programming,4.7,Beginner,120k,Ingles,Coursera
+66,Communication Strategies for a Virtual Age,4.8,Beginner,43k,Ingles,Coursera
+67,"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",4.7,Beginner,43k,Español,Coursera
+68,Computational Thinking for Problem Solving,4.8,Beginner,33k,Ingles,Coursera
+69,Construction Project Management,4.8,Beginner,43k,Ingles,Coursera
+70,Contabilidad para no contadores,4.7,Beginner,220k,Español,Coursera
+71,Continuous Delivery & DevOps,4.6,Beginner,26k,Ingles,Coursera
+72,Convolutional Neural Networks,4.9,Intermediate,240k,Ingles,Coursera
+73,Convolutional Neural Networks in TensorFlow,4.7,Intermediate,46k,Ingles,Coursera
+74,Corporate & Commercial Law I: Contracts & Employment Law,4.8,Intermediate,10k,Ingles,Coursera
+75,Corporate Finance Essentials,4.8,Mixed,56k,Ingles,Coursera
+76,Corporate Strategy,4.8,Beginner,7.8k,Ingles,Coursera
+77,Corporate Strategy,4.8,Beginner,7.8k,Ingles,Coursera
+78,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,4.6,Mixed,10k,Ingles,Coursera
+79,"Corrección, estilo y  variaciones de la lengua española",4.6,Beginner,75k,Español,Coursera
+80,Cost and Economics in Pricing Strategy,4.8,Beginner,15k,Ingles,Coursera
+81,Crash Course on Python,4.8,Beginner,81k,Ingles,Coursera
+82,Creative Problem Solving,4.3,Mixed,140k,Ingles,Coursera
+83,Creative Writing: The Craft of Plot,4.7,Mixed,120k,Ingles,Coursera
+84,Curanderismo: Traditional Healing Using Plants,4.6,Beginner,5.5k,Ingles,Coursera
+85,Customer Segmentation and Prospecting,4.7,Beginner,18k,Ingles,Coursera
+86,Dairy Production and Management,4.8,Mixed,23k,Ingles,Coursera
+87,Data Analysis with Python,4.7,Beginner,110k,Ingles,Coursera
+88,Data Analytics for Lean Six Sigma,4.8,Beginner,24k,Ingles,Coursera
+89,Data Management for Clinical Research,4.7,Beginner,42k,Ingles,Coursera
+90,Data Science Math Skills,4.5,Beginner,140k,Ingles,Coursera
+91,Data Science Methodology,4.6,Beginner,89k,Ingles,Coursera
+92,Data Visualization and Communication with Tableau,4.7,Mixed,130k,Ingles,Coursera
+93,Data Visualization with Python,4.6,Intermediate,66k,Ingles,Coursera
+94,Data-driven Decision Making,4.6,Beginner,120k,Ingles,Coursera
+95,Databases and SQL for Data Science,4.7,Beginner,110k,Ingles,Coursera
+96,De-Mystifying Mindfulness,4.8,Beginner,150k,Ingles,Coursera
+97,Democracia y decisiones públicas. Introducción al análisis de políticas públicas,4.8,Beginner,44k,Español,Coursera
+98,Dentistry 101,4.7,Beginner,4.5k,Ingles,Coursera
+99,Dermatology: Trip to skin,4.4,Beginner,8.2k,Ingles,Coursera
+100,Design Thinking for Innovation,4.6,Beginner,240k,Ingles,Coursera
+101,Design Thinking for the Greater Good: Innovation in the Social Sector,4.6,Beginner,17k,Ingles,Coursera
+102,Design and Interpretation of Clinical Trials,4.7,Mixed,67k,Ingles,Coursera
+103,Design-Led Strategy: Design thinking for business strategy and entrepreneurship,4.6,Intermediate,19k,Ingles,Coursera
+104,Developing Your Musicianship,4.8,Mixed,41k,Ingles,Coursera
+105,Developing Your Musicianship,4.8,Beginner,54k,Ingles,Coursera
+106,Devenir entrepreneur du changement,4.7,Mixed,54k,Frances,Coursera
+107,Digital Business Models,4.5,Beginner,21k,Ingles,Coursera
+108,Digital Media and Marketing Strategies,4.4,Mixed,57k,Ingles,Coursera
+109,Digital Product Management: Modern Fundamentals,4.7,Beginner,58k,Ingles,Coursera
+110,Dino 101: Dinosaur Paleobiology,4.5,Beginner,35k,Ingles,Coursera
+111,Discrete Optimization,4.9,Intermediate,40k,Ingles,Coursera
+112,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",4.8,Intermediate,130k,Ingles,Coursera
+113,Dog Emotion and Cognition,4.6,Mixed,150k,Ingles,Coursera
+114,Driving business towards the Sustainable Development Goals,4.8,Beginner,5.6k,Ingles,Coursera
+115,Drug Commercialization,4.7,Beginner,17k,Ingles,Coursera
+116,Drug Discovery,4.6,Beginner,39k,Ingles,Coursera
+117,EMT Foundations,4.8,Beginner,7.1k,Ingles,Coursera
+118,Ecology: Ecosystem Dynamics and Conservation,4.8,Intermediate,18k,Ingles,Coursera
+119,Econometrics: Methods and Applications,4.7,Mixed,110k,Ingles,Coursera
+120,Economics of Money and Banking,4.9,Mixed,83k,Ingles,Coursera
+121,Effective Compliance Programs,4.9,Mixed,3.4k,Ingles,Coursera
+122,El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,5.0,Beginner,1.5k,Español,Coursera
+123,Elastic Google Cloud Infrastructure: Scaling and Automation,4.7,Intermediate,57k,Ingles,Coursera
+124,Electric Industry Operations and Markets,4.8,Beginner,12k,Ingles,Coursera
+125,Engineering Health: Introduction to Yoga and Physiology,4.8,Beginner,14k,Ingles,Coursera
+126,Engineering Project Management: Initiating and Planning,4.7,Beginner,23k,Ingles,Coursera
+127,English Composition I,4.6,Beginner,200k,Ingles,Coursera
+128,English for Business and Entrepreneurship,4.8,Beginner,230k,Ingles,Coursera
+129,English for Career Development,4.8,Mixed,760k,Ingles,Coursera
+130,English for Journalism,4.8,Mixed,130k,Ingles,Coursera
+131,Enterprise Architecture,4.4,Beginner,2.4k,Ingles,Coursera
+132,Entrepreneurship 1: Developing the Opportunity,4.8,Mixed,86k,Ingles,Coursera
+133,Entrepreneurship 2: Launching your Start-Up,4.8,Mixed,38k,Ingles,Coursera
+134,Entrepreneurship Strategy: From Ideation to Exit,4.8,Beginner,20k,Ingles,Coursera
+135,"Epidemics, Pandemics and Outbreaks",4.7,Mixed,23k,Ingles,Coursera
+136,Epidemiology: The Basic Science of Public Health,4.6,Mixed,130k,Ingles,Coursera
+137,Epigenetic Control of Gene Expression,4.8,Mixed,35k,Ingles,Coursera
+138,Equine Welfare and Management,4.8,Beginner,7.2k,Frances,Coursera
+139,Essential Epidemiologic Tools for Public Health Practice,4.7,Beginner,14k,Ingles,Coursera
+140,Essential Google Cloud Infrastructure: Core Services,4.7,Intermediate,68k,Frances,Coursera
+141,Essential Google Cloud Infrastructure: Foundation,4.7,Intermediate,83k,Ingles,Coursera
+142,Essentials in Clinical Simulations Across the Health Professions,4.8,Intermediate,4.1k,Ingles,Coursera
+143,Essentials of Global Health,4.8,Mixed,31k,Ingles,Coursera
+144,"Everyday Excel, Part 1",4.8,Beginner,11k,Ingles,Coursera
+145,Everyday Parenting: The ABCs of Child Rearing,4.9,Beginner,86k,Ingles,Coursera
+146,Excel Skills for Business: Advanced,4.7,Intermediate,39k,Ingles,Coursera
+147,Excel Skills for Business: Essentials,4.9,Beginner,200k,Español,Coursera
+148,Excel Skills for Business: Intermediate I,4.9,Intermediate,76k,Ingles,Coursera
+149,Excel Skills for Business: Intermediate II,4.8,Intermediate,39k,Ingles,Coursera
+150,"Excel/VBA for Creative Problem Solving, Part 1",4.8,Beginner,54k,Ingles,Coursera
+151,Fashion as Design,4.8,Beginner,180k,Ingles,Coursera
+152,Feminism and Social Justice,4.8,Beginner,18k,Ingles,Coursera
+153,FinTech Law and Policy,4.8,Beginner,9.7k,Ingles,Coursera
+154,"FinTech: Foundations, Payments, and Regulations",4.7,Beginner,12k,Ingles,Coursera
+155,Finance for Non-Finance Professionals,4.8,Beginner,69k,Ingles,Coursera
+156,Finance for Non-Financial Managers,4.4,Intermediate,12k,Ingles,Coursera
+157,Financial Accounting Fundamentals,4.8,Beginner,65k,Español,Coursera
+158,Financial Acumen for Non-Financial Managers,4.5,Beginner,10k,Ingles,Coursera
+159,Financial Engineering and Risk Management Part I,4.6,Mixed,100k,Ingles,Coursera
+160,Financial Markets,4.8,Beginner,470k,Ingles,Coursera
+161,Financing and Investing in Infrastructure,4.8,Mixed,24k,Ingles,Coursera
+162,Finanzas personales,4.8,Mixed,310k,Español,Coursera
+163,Finding Purpose and Meaning In Life: Living for What Matters Most,4.7,Beginner,36k,Ingles,Coursera
+164,First Step Korean,4.9,Beginner,400k,Ingles,Coursera
+165,Food & Beverage Management,4.8,Mixed,57k,Ingles,Coursera
+166,Forensic Accounting and Fraud Examination,4.7,Mixed,42k,Ingles,Coursera
+167,Foundations of Business Strategy,4.8,Beginner,63k,Ingles,Coursera
+168,Front-End Web Development with React,4.7,Intermediate,45k,Ingles,Coursera
+169,Front-End Web UI Frameworks and Tools: Bootstrap 4,4.8,Intermediate,89k,Ingles,Coursera
+170,Functional Programming Principles in Scala,4.8,Intermediate,170k,Ingles,Coursera
+171,Fundamental Neuroscience for Neuroimaging,4.6,Beginner,30k,Ingles,Coursera
+172,Fundamentals of Engineering Exam Review,4.7,Mixed,49k,Ingles,Coursera
+173,Fundamentals of GIS,4.8,Beginner,86k,Ingles,Coursera
+174,Fundamentals of Graphic Design,4.8,Beginner,290k,Ingles,Coursera
+175,Fundamentals of Immunology: Innate Immunity and B-Cell Function,4.7,Intermediate,18k,Ingles,Coursera
+176,Fundamentals of Music Theory,4.6,Beginner,180k,Ingles,Coursera
+177,Fundamentals of Project Planning and Management,4.7,Beginner,120k,Ingles,Coursera
+178,Fundamentals of Quantitative Modeling,4.6,Mixed,110k,Ingles,Coursera
+179,Fundamentals of Reinforcement Learning,4.8,Intermediate,22k,Ingles,Coursera
+180,Fundamentals of Visualization with Tableau,4.5,Beginner,81k,Ingles,Coursera
+181,Fundamentos de Excel para Negocios,4.7,Beginner,150k,Español,Coursera
+182,Fundamentos de Finanzas Empresariales,4.8,Beginner,110k,Español,Coursera
+183,Game Theory,4.6,Beginner,260k,Ingles,Coursera
+184,Gamification,4.8,Mixed,110k,Ingles,Coursera
+185,Gender and Sexuality: Diversity and Inclusion in the Workplace,4.7,Beginner,14k,Ingles,Coursera
+186,Geopolitics of Europe,4.3,Mixed,19k,Ingles,Coursera
+187,Gestión de organizaciones efectivas,4.7,Mixed,47k,Español,Coursera
+188,Get Interactive: Practical Teaching with Technology,4.7,Beginner,14k,Ingles,Coursera
+189,Getting Started With Music Theory,4.5,Beginner,59k,Ingles,Coursera
+190,Getting Started with AWS Machine Learning,4.5,Intermediate,73k,Ingles,Coursera
+191,Getting Started with Go,4.6,Intermediate,59k,Ingles,Coursera
+192,Getting Started with Google Kubernetes Engine,4.5,Intermediate,75k,Ingles,Coursera
+193,Getting Started with Google Sheets,4.6,Beginner,18k,Ingles,Coursera
+194,Getting Started with SAS Programming,4.9,Beginner,22k,Ingles,Coursera
+195,Global Diplomacy – Diplomacy in the Modern World,4.6,Mixed,79k,Ingles,Coursera
+196,Global Diplomacy: the United Nations in the World,4.7,Beginner,29k,Ingles,Coursera
+197,Global Energy and Climate Policy,4.5,Beginner,10k,Ingles,Coursera
+198,Global Environmental Management,4.6,Intermediate,22k,Español,Coursera
+199,Global Financial Markets and Instruments,4.6,Mixed,37k,Ingles,Coursera
+200,Google Cloud Platform Big Data and Machine Learning Fundamentals,4.6,Intermediate,120k,Ingles,Coursera
+201,Grammar and Punctuation,4.7,Mixed,430k,Ingles,Coursera
+202,Greek and Roman Mythology,4.8,Mixed,260k,Ingles,Coursera
+203,Greening the Economy: Sustainable Cities,4.6,Beginner,56k,Ingles,Coursera
+204,Guitar for Beginners,4.8,Mixed,210k,Ingles,Coursera
+205,Gut Check: Exploring Your Microbiome,4.7,Mixed,62k,Ingles,Coursera
+206,"HTML, CSS, and Javascript for Web Developers",4.8,Mixed,240k,Ingles,Coursera
+207,Hacia una práctica constructivista en el aula,4.8,Mixed,62k,Español,Coursera
+208,Healing with the Arts,4.6,Mixed,39k,Ingles,Coursera
+209,How Things Work: An Introduction to Physics,4.8,Intermediate,170k,Ingles,Coursera
+210,IBM Customer Engagement Specialist Professional Certificate,4.8,Beginner,3.3k,Ingles,Coursera
+211,IT Security: Defense against the digital dark arts,4.8,Beginner,62k,Ingles,Coursera
+212,"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",4.9,Beginner,270k,Ingles,Coursera
+213,In the Studio: Postwar Abstract Painting,4.9,Beginner,79k,Ingles,Coursera
+214,Indigenous Canada,4.8,Mixed,51k,Ingles,Coursera
+215,Industrial IoT on Google Cloud Platform,4.5,Beginner,34k,Ingles,Coursera
+216,Information Security: Context and Introduction,4.6,Beginner,32k,Ingles,Coursera
+217,Initiating and Planning Projects,4.7,Mixed,180k,Ingles,Coursera
+218,Innovation Management,4.6,Beginner,40k,Ingles,Coursera
+219,"Innovation Through Design: Think, Make, Break, Repeat",4.8,Beginner,10k,Ingles,Coursera
+220,Inspiring and Motivating Individuals,4.8,Mixed,85k,Ingles,Coursera
+221,Instructional Design Foundations and Applications,4.2,Mixed,12k,Ingles,Coursera
+222,Intercultural Management,4.6,Beginner,6.5k,Ingles,Coursera
+223,International Humanitarian Law in Theory and Practice,4.8,Beginner,22k,Ingles,Coursera
+224,International Law in Action: A Guide to the International Courts and Tribunals in The Hague,4.8,Mixed,36k,Ingles,Coursera
+225,International Law in Action: the Arbitration of International Disputes,4.8,Mixed,19k,Ingles,Coursera
+226,International Leadership and Organizational Behavior,4.8,Mixed,41k,Ingles,Coursera
+227,International Organizations Management,4.8,Beginner,20k,Ingles,Coursera
+228,International Security Management,4.5,Beginner,2.2k,Ingles,Coursera
+229,International Women's Health and Human Rights,4.9,Beginner,35k,Ingles,Coursera
+230,International migrations: a global issue,4.6,Beginner,11k,Ingles,Coursera
+231,Introducción a Data Science: Programación Estadística con R,4.7,Beginner,140k,Español,Coursera
+232,Introducción a la programación en Python I: Aprendiendo a programar con Python,4.4,Beginner,100k,Español,Coursera
+233,Introduction aux Droits de l’Homme,4.8,Mixed,46k,Frances,Coursera
+234,Introduction to Artificial Intelligence (AI),4.7,Beginner,44k,Ingles,Coursera
+235,Introduction to Big Data,4.6,Mixed,160k,Ingles,Coursera
+236,Introduction to Blockchain Technologies,4.7,Beginner,16k,Ingles,Coursera
+237,Introduction to Business Analytics: Communicating with Data,4.7,Intermediate,14k,Ingles,Coursera
+238,Introduction to CSS3,4.8,Mixed,84k,Ingles,Coursera
+239,Introduction to Calculus,4.8,Intermediate,53k,Ingles,Coursera
+240,Introduction to Chemistry:  Reactions and Ratios,4.8,Beginner,46k,Ingles,Coursera
+241,Introduction to Classical Music,4.9,Mixed,150k,Ingles,Coursera
+242,Introduction to Cloud Computing,4.6,Beginner,2.6k,Ingles,Coursera
+243,Introduction to Computer Programming,4.3,Beginner,20k,Ingles,Coursera
+244,Introduction to Corporate Finance,4.6,Mixed,130k,Ingles,Coursera
+245,Introduction to Cybersecurity Tools & Cyber Attacks,4.5,Beginner,30k,Ingles,Coursera
+246,Introduction to Data Analysis Using Excel,4.7,Mixed,99k,Ingles,Coursera
+247,Introduction to Data Science in Python,4.5,Intermediate,390k,Ingles,Coursera
+248,Introduction to Dental Medicine,4.8,Beginner,25k,Ingles,Coursera
+249,Introduction to Electronics,4.7,Mixed,110k,Ingles,Coursera
+250,Introduction to Embedded Systems Software and Development Environments,4.5,Intermediate,41k,Ingles,Coursera
+251,Introduction to Engineering Mechanics,4.7,Mixed,150k,Ingles,Coursera
+252,Introduction to Environmental Law and Policy,4.8,Mixed,34k,Ingles,Coursera
+253,Introduction to Financial Accounting,4.7,Mixed,200k,Ingles,Coursera
+254,Introduction to Forensic Science,4.9,Mixed,47k,Ingles,Coursera
+255,Introduction to Game Development,4.8,Mixed,79k,Ingles,Coursera
+256,Introduction to Genetics and Evolution,4.8,Mixed,74k,Ingles,Coursera
+257,Introduction to Genomic Technologies,4.6,Mixed,42k,Ingles,Coursera
+258,Introduction to HTML5,4.7,Mixed,220k,Ingles,Coursera
+259,Introduction to Intellectual Property,4.8,Beginner,6k,Ingles,Coursera
+260,Introduction to International Criminal Law,4.8,Mixed,82k,Ingles,Coursera
+261,Introduction to Marketing,4.8,Mixed,220k,Ingles,Coursera
+262,Introduction to Mathematical Thinking,4.8,Intermediate,270k,Ingles,Coursera
+263,Introduction to Operations Management,4.5,Mixed,87k,Ingles,Coursera
+264,Introduction to Personal Branding,4.4,Beginner,140k,Ingles,Coursera
+265,Introduction to Philosophy,4.6,Mixed,370k,Ingles,Coursera
+266,Introduction to Portfolio Construction and Analysis with Python,4.8,Mixed,11k,Ingles,Coursera
+267,Introduction to Programming with MATLAB,4.8,Beginner,270k,Ingles,Coursera
+268,Introduction to Psychology,4.9,Beginner,270k,Ingles,Coursera
+269,Introduction to Psychology,4.9,Beginner,270k,Ingles,Coursera
+270,Introduction to Psychology,4.9,Beginner,270k,Ingles,Coursera
+271,Introduction to Psychology,4.9,Beginner,270k,Ingles,Coursera
+272,Introduction to Self-Driving Cars,4.8,Advanced,39k,Ingles,Coursera
+273,Introduction to Spreadsheets and Models,4.2,Mixed,76k,Ingles,Coursera
+274,Introduction to Statistics & Data Analysis in Public Health,4.7,Beginner,12k,Ingles,Coursera
+275,Introduction to Sustainability,4.8,Mixed,69k,Ingles,Coursera
+276,Introduction to Systematic Review and Meta-Analysis,4.8,Mixed,67k,Ingles,Coursera
+277,Introduction to Systems Engineering,4.7,Mixed,33k,Ingles,Coursera
+278,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",4.7,Intermediate,150k,Ingles,Coursera
+279,"Introduction to Trading, Machine Learning & GCP",4.0,Intermediate,13k,Ingles,Coursera
+280,Introduction to Typography,4.8,Beginner,72k,Ingles,Coursera
+281,Introduction to User Experience Design,4.5,Beginner,87k,Ingles,Coursera
+282,Introduction to User Experience Principles and Processes,4.8,Beginner,16k,Ingles,Coursera
+283,Introduction to Web Development,4.7,Beginner,76k,Ingles,Coursera
+284,Introduction to the Biology of Cancer,4.8,Beginner,110k,Ingles,Coursera
+285,Introductory Human Physiology,4.7,Mixed,270k,Ingles,Coursera
+286,Introdução à Ciência da Computação com Python Parte 1,4.9,Beginner,120k,Portugues,Coursera
+287,Japanese for beginners 1,4.6,Beginner,4.4k,Ingles,Coursera
+288,Java Programming: Solving Problems with Software,4.6,Beginner,160k,Ingles,Coursera
+289,Kotlin for Java Developers,4.7,Intermediate,37k,Ingles,Coursera
+290,L'excellence opérationnelle en pratique,4.7,Beginner,8k,Frances,Coursera
+291,Leadership in 21st Century Organizations,4.7,Mixed,34k,Ingles,Coursera
+292,Leading Healthcare Quality and Safety,4.8,Beginner,16k,Ingles,Coursera
+293,"Leading for Equity, Diversity and Inclusion in Higher Education",4.7,Intermediate,5.9k,Ingles,Coursera
+294,Learn to Program: The Fundamentals,4.8,Beginner,180k,Ingles,Coursera
+295,Learn to Speak Korean 1,4.9,Beginner,120k,Ingles,Coursera
+296,Learning to Teach Online,4.7,Beginner,68k,Ingles,Coursera
+297,Legal Tech & Startups,4.5,Intermediate,7.2k,Ingles,Coursera
+298,Les Fondamentaux de la Négociation,4.7,Beginner,10k,Frances,Coursera
+299,Love as a Force for Social Justice,4.7,Beginner,14k,Ingles,Coursera
+300,Machine Learning,4.6,Intermediate,290k,Ingles,Coursera
+301,Machine Learning,4.9,Mixed,3.2m,Ingles,Coursera
+302,Machine Learning Foundations: A Case Study Approach,4.6,Mixed,240k,Ingles,Coursera
+303,Machine Learning for All,4.6,Beginner,19k,Ingles,Coursera
+304,Machine Learning for Business Professionals,4.6,Intermediate,58k,Ingles,Coursera
+305,Machine Learning with Python,4.7,Intermediate,120k,Ingles,Coursera
+306,Magic in the Middle Ages,4.6,Beginner,78k,Ingles,Coursera
+307,Making Architecture,4.7,Beginner,43k,Ingles,Coursera
+308,Management of Fashion and Luxury Companies,4.7,Mixed,120k,Ingles,Coursera
+309,Managerial Accounting Fundamentals,4.9,Beginner,11k,Ingles,Coursera
+310,Managing Project Risks and Changes,4.7,Mixed,71k,Ingles,Coursera
+311,Marketing Digital,4.8,Beginner,81k,Ingles,Coursera
+312,Marketing Digital,4.7,Beginner,39k,Ingles,Coursera
+313,Marketing Gerencial,4.7,Intermediate,49k,Ingles,Coursera
+314,Marketing in a Digital World,4.7,Beginner,310k,Ingles,Coursera
+315,Mastering Data Analysis in Excel,4.2,Mixed,280k,Ingles,Coursera
+316,Mastering Final Cut Pro,4.6,Beginner,8.4k,Ingles,Coursera
+317,Mathematics for Machine Learning: Linear Algebra,4.7,Beginner,140k,Ingles,Coursera
+318,Mathematics for Machine Learning: Multivariate Calculus,4.7,Beginner,51k,Ingles,Coursera
+319,Mathematics for Machine Learning: PCA,4.0,Intermediate,33k,Ingles,Coursera
+320,Medical Neuroscience,4.9,Advanced,170k,Español,Coursera
+321,Microeconomics Principles,4.9,Beginner,73k,Español,Coursera
+322,Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,4.8,Beginner,230k,Ingles,Coursera
+323,Miracles of Human Language: An Introduction to Linguistics,4.7,Beginner,120k,Ingles,Coursera
+324,Model Thinking,4.8,Mixed,130k,Ingles,Coursera
+325,Modern Art & Ideas,4.7,Beginner,310k,Ingles,Coursera
+326,Modernizing Data Lakes and Data Warehouses with GCP,4.7,Intermediate,9.1k,Ingles,Coursera
+327,Moral Foundations of Politics,4.8,Mixed,100k,Ingles,Coursera
+328,More Introduction to Financial Accounting,4.9,Mixed,40k,Ingles,Coursera
+329,Music Business Foundations,4.9,Mixed,34k,Ingles,Coursera
+330,Nanotechnology: A Maker’s Course,4.8,Mixed,21k,Ingles,Coursera
+331,Natural Language Processing in TensorFlow,4.6,Intermediate,40k,Ingles,Coursera
+332,Negociación exitosa: Estrategias y habilidades esenciales (en español),4.8,Mixed,95k,Español,Coursera
+333,Neural Networks and Deep Learning,4.9,Intermediate,630k,Ingles,Coursera
+334,New Approaches to Countering Terror: Countering Violent Extremism,4.7,Beginner,12k,Ingles,Coursera
+335,Nutrición y obesidad: control de sobrepeso,4.8,Beginner,100k,Español,Coursera
+336,Nutrition and Lifestyle in Pregnancy,4.8,Intermediate,35k,Ingles,Coursera
+337,Object Oriented Programming in Java,4.6,Beginner,330k,Ingles,Coursera
+338,Object-Oriented Data Structures in C++,4.7,Intermediate,21k,Ingles,Coursera
+339,Object-Oriented Design,4.7,Intermediate,33k,Ingles,Coursera
+340,Oil & Gas Industry Operations and Markets,4.8,Mixed,57k,Ingles,Coursera
+341,Operating Systems and You: Becoming a Power User,4.6,Beginner,76k,Ingles,Coursera
+342,Operations Analytics,4.7,Mixed,80k,Ingles,Coursera
+343,Osteoarchaeology: The Truth in Our Bones,4.7,Beginner,22k,Ingles,Coursera
+344,People Analytics,4.5,Mixed,84k,Ingles,Coursera
+345,Perfect Tenses and Modals,4.7,Intermediate,79k,Ingles,Coursera
+346,Politics and Economics of International Energy,4.7,Beginner,34k,Ingles,Coursera
+347,Positive Psychiatry and Mental Health,4.8,Mixed,72k,Ingles,Coursera
+348,Positive Psychology,4.7,Mixed,180k,Ingles,Coursera
+349,Positive Psychology: Applications and Interventions,4.8,Beginner,23k,Ingles,Coursera
+350,Positive Psychology: Martin E. P. Seligman’s Visionary Science,4.8,Beginner,50k,Ingles,Coursera
+351,Positive Psychology: Resilience Skills,4.6,Beginner,40k,Ingles,Coursera
+352,Practical Time Series Analysis,4.6,Intermediate,39k,Ingles,Coursera
+353,Preparing for the Google Cloud Associate Cloud Engineer Exam,4.7,Beginner,22k,Ingles,Coursera
+354,Preparing to Manage Human Resources,4.8,Mixed,68k,Ingles,Coursera
+355,Primeros Auxilios Psicológicos (PAP),4.8,Mixed,280k,Español,Coursera
+356,Private Equity and Venture Capital,4.8,Mixed,79k,Ingles,Coursera
+357,Probabilistic Graphical Models 1: Representation,4.7,Advanced,68k,Español,Coursera
+358,Probability and Statistics: To p or not to p?,4.6,Beginner,36k,Ingles,Coursera
+359,Process Mining: Data science in Action,4.8,Intermediate,39k,Ingles,Coursera
+360,"Programming Foundations with JavaScript, HTML and CSS",4.6,Beginner,250k,Ingles,Coursera
+361,Programming Fundamentals,4.7,Beginner,19k,Ingles,Coursera
+362,Programming for Everybody (Getting Started with Python),4.8,Mixed,1.3m,Ingles,Coursera
+363,Project Execution,4.2,Beginner,70k,Ingles,Coursera
+364,Project Launch,4.7,Beginner,190k,Ingles,Coursera
+365,Psychological First Aid,4.8,Mixed,190k,Ingles,Coursera
+366,Public Policy Challenges of the 21st Century,4.6,Beginner,52k,Ingles,Coursera
+367,Python Basics,4.8,Beginner,110k,Ingles,Coursera
+368,Python Data Structures,4.9,Mixed,420k,Ingles,Coursera
+369,"Python Functions, Files, and Dictionaries",4.8,Beginner,26k,Ingles,Coursera
+370,Python and Statistics for Financial Analysis,4.4,Intermediate,41k,Ingles,Coursera
+371,Python for Data Science and AI,4.6,Beginner,170k,Ingles,Coursera
+372,Quantitative Methods,4.7,Mixed,69k,Ingles,Coursera
+373,R Programming,4.6,Intermediate,480k,Ingles,Coursera
+374,"Recruiting, Hiring, and Onboarding Employees",4.7,Mixed,35k,Ingles,Coursera
+375,Renewable Energy and Green Building Entrepreneurship,4.7,Beginner,24k,Ingles,Coursera
+376,Reporting extra-financier et stratégie RSE,4.7,Beginner,5.2k,Frances,Coursera
+377,Research Data Management and Sharing,4.6,Mixed,16k,Ingles,Coursera
+378,Rethinking International Tax Law,4.9,Mixed,36k,Ingles,Coursera
+379,Revisão Sistemática e Meta-análise,4.9,Intermediate,17k,Portugues,Coursera
+380,Roman Architecture,4.9,Beginner,30k,Ingles,Coursera
+381,Réussir le Changement,4.5,Mixed,33k,Frances,Coursera
+382,SQL for Data Science,4.6,Beginner,160k,Ingles,Coursera
+383,Sample-based Learning Methods,4.8,Intermediate,6.8k,Ingles,Coursera
+384,Science of Exercise,4.8,Beginner,140k,Ingles,Coursera
+385,Search Engine Optimization Fundamentals,4.7,Mixed,47k,Ingles,Coursera
+386,Security & Safety Challenges in a Globalized World,4.7,Beginner,14k,Ingles,Coursera
+387,Sequence Models,4.8,Intermediate,14k,Español,Coursera
+388,Site Reliability Engineering: Measuring and Managing Reliability,4.5,Advanced,16k,Ingles,Coursera
+389,Six Sigma and the Organization (Advanced),4.7,Intermediate,15k,Ingles,Coursera
+390,"Sleep: Neurobiology, Medicine, and Society",4.8,Beginner,20k,Ingles,Coursera
+391,Smart Cities – Management of Smart Urban Infrastructures,4.6,Beginner,22k,Ingles,Coursera
+392,"Social Norms, Social Change I",4.6,Beginner,78k,Ingles,Coursera
+393,Social Psychology,4.7,Beginner,220k,Ingles,Coursera
+394,Social and Economic Networks:  Models and Analysis,4.8,Advanced,42k,Ingles,Coursera
+395,Software Processes and Agile Practices,4.7,Mixed,60k,Ingles,Coursera
+396,Solar Energy Basics,4.8,Beginner,17k,Ingles,Coursera
+397,Songwriting: Writing the Lyrics,4.8,Beginner,68k,Ingles,Coursera
+398,Spanish Vocabulary: Meeting People,4.6,Beginner,71k,Ingles,Coursera
+399,"Speak English Professionally: In Person, Online & On the Phone",4.6,Mixed,430k,Ingles,Coursera
+400,Sports Marketing,4.7,Intermediate,12k,Ingles,Coursera
+401,Sports and Society,4.8,Mixed,16k,Ingles,Coursera
+402,Stanford Introduction to Food and Health,4.7,Beginner,370k,Ingles,Coursera
+403,Strategic Business Management - Microeconomics,4.7,Beginner,9.5k,Ingles,Coursera
+404,Strategic Management,4.7,Mixed,58k,Ingles,Coursera
+405,Structuring Machine Learning Projects,4.8,Beginner,220k,Ingles,Coursera
+406,Success,4.8,Beginner,38k,Ingles,Coursera
+407,Successful Negotiation: Essential Strategies and Skills,4.8,Mixed,750k,Ingles,Coursera
+408,Summary Statistics in Public Health,4.8,Beginner,11k,Ingles,Coursera
+409,Supply Chain Logistics,4.7,Beginner,66k,Ingles,Coursera
+410,Supply Chain Principles,4.6,Mixed,29k,Ingles,Coursera
+411,Supporting children with difficulties in reading and writing,4.8,Mixed,50k,Ingles,Coursera
+412,Sustainable Tourism – promoting environmental public health,4.6,Beginner,9.4k,Ingles,Coursera
+413,System Administration and IT Infrastructure Services,4.7,Beginner,62k,Ingles,Coursera
+414,Systems Thinking In Public Health,4.9,Mixed,33k,Ingles,Coursera
+415,Teach English Now! Foundational Principles,4.9,Mixed,81k,Ingles,Coursera
+416,Teach English Now! Teaching Language Online,4.4,Intermediate,8.5k,Ingles,Coursera
+417,Teamwork Skills: Communicating Effectively in Groups,4.8,Beginner,49k,Ingles,Coursera
+418,Technical Support Fundamentals,4.8,Beginner,280k,Ingles,Coursera
+419,Terrorism and Counterterrorism: Comparing Theory and Practice,4.8,Beginner,90k,Ingles,Coursera
+420,The Addicted Brain,4.6,Beginner,130k,Ingles,Coursera
+421,The Art of Music Production,4.8,Intermediate,47k,Ingles,Coursera
+422,The Arts and Science of Relationships: Understanding Human Needs,4.5,Beginner,73k,Ingles,Coursera
+423,The Bits and Bytes of Computer Networking,4.7,Beginner,130k,Ingles,Coursera
+424,The Changing Global Order,4.7,Intermediate,23k,Ingles,Coursera
+425,The Cycle: Management of Successful Arts and Cultural Organizations,4.8,Beginner,11k,Ingles,Coursera
+426,The Data Scientist’s Toolbox,4.6,Mixed,420k,Ingles,Coursera
+427,The Global Financial Crisis,4.8,Mixed,84k,Ingles,Coursera
+428,The Horse Course: Introduction to Basic Care and Management,4.9,Mixed,29k,Ingles,Coursera
+429,The Manager's Toolkit: A Practical Guide to Managing People at Work,4.6,Mixed,47k,Ingles,Coursera
+430,"The Modern World, Part One: Global History from 1760 to 1910",4.8,Beginner,130k,Ingles,Coursera
+431,"The Modern World, Part Two: Global History since 1910",4.8,Beginner,47k,Ingles,Coursera
+432,The Oral Cavity: Portal to Health and Disease,4.9,Intermediate,9.4k,Ingles,Coursera
+433,The Power of Macroeconomics: Economic Principles in the Real World,4.6,Mixed,180k,Ingles,Coursera
+434,The Power of Microeconomics: Economic Principles in the Real World,4.7,Mixed,120k,Ingles,Coursera
+435,The Science of Stem Cells,4.7,Intermediate,12k,Ingles,Coursera
+436,The Science of Success: What Researchers Know that You Should Know,4.8,Beginner,59k,Ingles,Coursera
+437,The Science of Well-Being,4.9,Mixed,2.5m,Ingles,Coursera
+438,The Social Context of Mental Health and Illness,4.6,Mixed,19k,Ingles,Coursera
+439,The Strategy of Content Marketing,4.5,Intermediate,100k,Ingles,Coursera
+440,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",4.8,Beginner,26k,Ingles,Coursera
+441,The Technology of Music Production,4.8,Beginner,28k,Ingles,Coursera
+442,The Truth About Cats and Dogs,4.7,Mixed,33k,Ingles,Coursera
+443,Think Again I: How to Understand Arguments,4.6,Beginner,200k,Ingles,Coursera
+444,Tools for Data Science,4.6,Beginner,120k,Ingles,Coursera
+445,"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",4.8,Mixed,45k,Ingles,Coursera
+446,Tricky American English Pronunciation,4.7,Beginner,110k,Ingles,Coursera
+447,Troubles du spectre de l'autisme : diagnostic,4.9,Intermediate,5.4k,Frances,Coursera
+448,UX Design Fundamentals,4.8,Beginner,25k,Ingles,Coursera
+449,Understanding Clinical Research: Behind the Statistics,4.8,Mixed,78k,Ingles,Coursera
+450,Understanding Einstein: The Special Theory of Relativity,4.9,Beginner,89k,Ingles,Coursera
+451,Understanding Medical Research: Your Facebook Friend is Wrong,4.8,Beginner,24k,Ingles,Coursera
+452,Understanding Plants - Part I: What a Plant Knows,4.8,Beginner,49k,Ingles,Coursera
+453,Understanding Research Methods,4.5,Mixed,120k,Ingles,Coursera
+454,Understanding and Visualizing Data with Python,4.7,Beginner,30k,Ingles,Coursera
+455,Understanding the Brain: The Neurobiology of Everyday Life,4.9,Beginner,130k,Ingles,Coursera
+456,Unraveling the Cycling City,4.9,Intermediate,3.9k,Ingles,Coursera
+457,Using Databases with Python,4.8,Mixed,220k,Ingles,Coursera
+458,Using Python to Access Web Data,4.8,Mixed,310k,Ingles,Coursera
+459,Using Python to Interact with the Operating System,4.7,Beginner,19k,Ingles,Coursera
+460,Version Control with Git,4.8,Mixed,40k,Ingles,Coursera
+461,Viral Marketing and How to Craft Contagious Content,4.7,Mixed,150k,Ingles,Coursera
+462,Vital Signs: Understanding What the Body Is Telling Us,4.8,Mixed,190k,Ingles,Coursera
+463,Weight Management: Beyond Balancing Calories,4.7,Beginner,34k,Ingles,Coursera
+464,What Is Contemporary Art?,4.7,Beginner,120k,Ingles,Coursera
+465,What is Compliance?,4.8,Mixed,6.2k,Ingles,Coursera
+466,What is Data Science?,4.7,Beginner,260k,Ingles,Coursera
+467,What is Social?,4.6,Mixed,94k,Ingles,Coursera
+468,Wine Tasting: Sensory Techniques for Wine Analysis,4.7,Beginner,32k,Ingles,Coursera
+469,Write A Feature Length Screenplay For Film Or Television,4.9,Beginner,12k,Ingles,Coursera
+470,Write Professional Emails in English,4.7,Mixed,270k,Ingles,Coursera
+471,Write Your First Novel,4.4,Beginner,18k,Ingles,Coursera
+472,Writing in the Sciences,4.9,Beginner,140k,Ingles,Coursera
+473,e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,4.5,Mixed,17k,Ingles,Coursera
+474,Étudier en France: French Intermediate course B1-B2,4.8,Intermediate,190k,Frances,Coursera
+475,Математика и Python для анализа данных,4.8,Beginner,67k,Ruso,Coursera
+476,Основы программирования на Python,4.6,Beginner,83k,Ruso,Coursera
+477,Основы разработки на C++: белый пояс,4.9,Intermediate,41k,Ruso,Coursera
