@@ -1,0 +1,975 @@
+,title,price,n_enrolled,Level,language,subject
+0,How to Learn Online,$49 ,"124,980",Introductory,English,Education & Teacher Training
+1,Programming for Everybody (Getting Started with Python),$49 ,"293,864",Introductory,English,Computer Science
+2,CS50's Introduction to Computer Science,$90 ,"2,442,271",Introductory,English,Computer Science
+3,The Analytics Edge,$199 ,"129,555",Intermediate,English,Data Analysis & Statistics
+4,Marketing Analytics: Marketing Measurement Strategy,$249 ,"81,140",Introductory,English,Computer Science
+5,Introduction to Project Management,$199 ,"301,793",Introductory,English,Business & Management
+6,Leading High-Performing Teams,$5 ,"32,847",Intermediate,English,Communication
+7,The Foundations of Happiness at Work,$199 ,"67,073",Introductory,English,Business & Management
+8,"Managing Study, Stress and Mental Health at University",$49 ,"23,061",Introductory,English,Health & Safety
+9,Six Sigma: Define and Measure,$99 ,"92,411",Introductory,English,Business & Management
+10,Fat Chance: Probability from the Ground Up,$49 ,"66,835",Introductory,English,Math
+11,Chasing your Dream: How to End Procrastination and Get a Job You Love,$49 ,"44,711",Introductory,English,Communication
+12,Bitcoin and Cryptocurrencies,$99 ,"83,398",Introductory,English,Computer Science
+13,English Grammar and Style,$99 ,,Introductory,English,Humanities
+14,Ethics in Action,$49 ,"6,366",Intermediate,English,Ethics
+15,Introduction to FinTech,$199 ,"72,767",Introductory,English,Economics & Finance
+16,Data Science: R Basics,$49 ,"528,782",Introductory,English,Data Analysis & Statistics
+17,Python Basics for Data Science,$39 ,"228,809",Introductory,English,Data Analysis & Statistics
+18,The Science of Beer,$49 ,"39,085",Introductory,English,Food & Nutrition
+19,Strategic Social Media Marketing,$399 ,"103,640",Advanced,English,Business & Management
+20,CS50's Introduction to Artificial Intelligence with Python,$199 ,"258,006",Introductory,English,Computer Science
+21,CS50's Introduction to Game Development,$149 ,"346,748",Intermediate,English,Computer Science
+22,Rhetoric: The Art of Persuasive Writing and Public Speaking,$99 ,"320,225",Introductory,English,Humanities
+23,CS50's Web Programming with Python and JavaScript,$90 ,"698,950",Intermediate,English,Computer Science
+24,Contract Law: From Trust to Promise to Contract,$125 ,"414,181",Intermediate,English,Business & Management
+25,"Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron",$99 ,"380,167",Introductory,English,Biology & Life Sciences
+26,Justice,$99 ,"392,588",Introductory,English,Humanities
+27,Data Science: Machine Learning,$49 ,"276,209",Introductory,English,Data Analysis & Statistics
+28,Child Protection: Children's Rights in Theory and Practice,$99 ,"212,453",Introductory,English,Social Sciences
+29,IELTS Academic Test Preparation,$99 ,"1,103,777",Introductory,English,Communication
+30,The Architectural Imagination,$99 ,"406,181",Introductory,English,Architecture
+31,TOEFL® Test Preparation: The Insider’s Guide,$49 ,"1,022,489",Introductory,English,Communication
+32,Principles of Biochemistry,$199 ,"257,600",Intermediate,English,Medicine
+33,Using Python for Research,$99 ,"262,183",Intermediate,English,Computer Science
+34,Hinduism Through Its Scriptures,$99 ,"140,782",Introductory,English,Humanities
+35,Basic Spanish 1: Getting Started,$40 ,"400,169",Introductory,English,Communication
+36,The Health Effects of Climate Change,$99 ,"110,024",Introductory,English,Environmental Studies
+37,Inglés básico: conversacional y networking,$49 ,"79,671",Introductory,Español,Business & Management
+38,Statistics and R,$249 ,"314,586",Intermediate,English,Data Analysis & Statistics
+39,Science & Cooking: From Haute Cuisine to Soft Matter Science (chemistry),$199 ,"145,011",Introductory,English,Chemistry
+40,Pyramids of Giza: Ancient Egyptian Art and Archaeology,$99 ,"123,870",Introductory,English,Art & Culture
+41,"PredictionX: Omens, Oracles & Prophecies",$25 ,"91,566",Introductory,English,Social Sciences
+42,Excel: Fundamentos y herramientas,$50 ,"284,279",Introductory,Español,Computer Science
+43,Lessons from Ebola: Preventing the Next Pandemic,$49 ,"91,983",Introductory,English,Social Sciences
+44,Improving Global Health: Focusing on Quality and Safety,$99 ,"127,353",Intermediate,English,Social Sciences
+45,CS50 for Lawyers,$99 ,"87,336",Introductory,English,Computer Science
+46,Data Science: Visualization,$49 ,"171,258",Introductory,English,Data Analysis & Statistics
+47,Christianity Through Its Scriptures,$99 ,"125,051",Introductory,English,Humanities
+48,The Science of Happiness,$169 ,"475,614",Introductory,English,Social Sciences
+49,Leaders of Learning,$99 ,"231,131",Introductory,English,Communication
+50,Exercising Leadership: Foundational Principles,$99 ,"57,814",Introductory,English,Business & Management
+51,Data Science: Probability,$49 ,"135,859",Introductory,English,Data Analysis & Statistics
+52,Introduction to Data Wise: A Collaborative Process to Improve Learning & Teaching,$70 ,"117,410",Intermediate,English,Education & Teacher Training
+53,"Prescription Drug Regulation, Cost, and Access: Current Controversies in Context",$99 ,"80,082",Introductory,English,Medicine
+54,Introduction to Family Engagement in Education,$70 ,"105,146",Introductory,English,Education & Teacher Training
+55,Italian Language and Culture: Beginner (2019-2020),$49 ,"182,462",Introductory,Italiano,Language
+56,Steps in Japanese for Beginners1 Part1,$49 ,"53,630",Introductory,English,Language
+57,How to Write an Essay,$49 ,"306,787",Introductory,English,Humanities
+58,Energy Within Environmental Constraints,$99 ,"95,324",Introductory,English,Environmental Studies
+59,Introduction to Probability,$99 ,"97,291",Intermediate,English,Data Analysis & Statistics
+60,AnatomyX: Musculoskeletal Cases,$99 ,"102,075",Intermediate,English,Medicine
+61,Data Science: Inference and Modeling,$49 ,"88,256",Introductory,English,Data Analysis & Statistics
+62,Strengthening Community Health Worker Programs,$79 ,"58,626",Introductory,English,Health & Safety
+63,Buddhism Through Its Scriptures,$99 ,"182,295",Introductory,English,Humanities
+64,Introduction to Linux,$199 ,"642,088",Introductory,English,Computer Science
+65,"Bioethics: The Law, Medicine, and Ethics of Reproductive Technologies and Genetics",$99 ,"81,221",Introductory,English,Medicine
+66,Shakespeare's Life and Work,$49 ,"48,938",Introductory,English,Humanities
+67,Marketing Digital: Content & Community Manager,$49 ,"112,623",Introductory,Español,Communication
+68,Accounting and Finance,$150 ,"88,243",Intermediate,English,Business & Management
+69,Computing in Python I: Fundamentals and Procedural Programming,$99 ,"141,966",Introductory,English,Computer Science
+70,"Nutrition, Exercise and Sports",$49 ,"51,679",Intermediate,English,Food & Nutrition
+71,Becoming an Entrepreneur,$69 ,"104,760",Introductory,English,Business & Management
+72,"Religion, Conflict and Peace",$49 ,"74,060",Introductory,English,Humanities
+73,"Tangible Things: Discovering History Through Artworks, Artifacts, Scientific Specimens, and the Stuff Around You",$49 ,"61,139",Introductory,English,Humanities
+74,Academic and Business Writing,$49 ,"322,701",Introductory,English,Communication
+75,Data Science: Capstone,$99 ,"62,803",Introductory,English,Data Analysis & Statistics
+76,Basics of Computing and Programming,$200 ,"37,045",Introductory,English,Computer Science
+77,"Fundamentals of Neuroscience, Part 2: Neurons and Networks",$99 ,"84,874",Introductory,English,Biology & Life Sciences
+78,Successful Negotiation: Essential Strategies and Skills,$49 ,"31,369",Introductory,English,Business & Management
+79,Data Science: Linear Regression,$49 ,"75,310",Introductory,English,Data Analysis & Statistics
+80,HTML5 and CSS Fundamentals,$199 ,"335,895",Introductory,English,Computer Science
+81,Data Science: Productivity Tools,$49 ,"66,683",Introductory,English,Data Analysis & Statistics
+82,Introduction to Corporate Finance,$225 ,"98,093",Introductory,English,Business & Management
+83,Computer Science 101,$149 ,"39,540",Introductory,English,Computer Science
+84,Data Science: Wrangling,$49 ,"64,584",Introductory,English,Data Analysis & Statistics
+85,A Hands-on Introduction to Engineering Simulations,$199 ,"187,138",Intermediate,English,Engineering
+86,AI for Everyone: Master the Basics,$49 ,"49,340",Introductory,English,Computer Science
+87,The Psychology of Criminal Justice,$99 ,"110,086",Introductory,English,Humanities
+88,Machine Learning with Python: A Practical Introduction,$39 ,"80,161",Introductory,English,Data Analysis & Statistics
+89,Analyzing Data with Python,$39 ,"94,079",Introductory,English,Data Analysis & Statistics
+90,Excel: gestión de datos,$75 ,"111,785",Intermediate,Español,Computer Science
+91,Probability - The Science of Uncertainty and Data,$300 ,"205,615",Advanced,English,Data Analysis & Statistics
+92,"Fundamentals of Neuroscience, Part 3: The Brain",$99 ,"85,034",Introductory,English,Biology & Life Sciences
+93,Sikhism Through Its Scriptures,$99 ,"44,125",Introductory,English,Humanities
+94,Upper-Intermediate English: Business and Modern Life,$50 ,"77,991",Intermediate,English,Language
+96,Religious Literacy: Traditions and Scriptures,$99 ,"96,972",Introductory,English,Humanities
+97,Programación para todos (empezando con Python),$49 ,"81,004",Introductory,Español,Computer Science
+98,Analyzing and Visualizing Data with Power BI,$99 ,"28,879",Introductory,English,Data Analysis & Statistics
+99,High-Dimensional Data Analysis,$149 ,"78,443",Advanced,English,Data Analysis & Statistics
+100,Introduction To Music Theory,$49 ,"67,029",Introductory,English,Humanities
+101,Human Anatomy,$139 ,"126,850",Introductory,English,Medicine
+102,"CitiesX: The Past, Present and Future of Urban Life",$99 ,"76,874",Introductory,English,Social Sciences
+103,The Path to Happiness: What Chinese Philosophy Teaches us about the Good Life,$99 ,"24,208",Introductory,English,Philosophy & Ethics
+104,Entrepreneurship 101: Who is your customer?,$49 ,"41,838",Introductory,English,Business & Management
+105,"U.S. Public Policy: Social, Economic, and Foreign Policies",$49 ,"44,045",Introductory,English,Social Sciences
+106,Machine Learning with Python: from Linear Models to Deep Learning,$300 ,"85,561",Advanced,English,Computer Science
+107,Introduction to Data Science,$39 ,"43,766",Introductory,English,Data Analysis & Statistics
+108,Circuits and Electronics 1: Basic Circuit Analysis,$169 ,"52,639",Introductory,English,Electronics
+109,Introduction to Investments,$50 ,"91,788",Intermediate,English,Business & Management
+110,Improving Your Business Through a Culture of Health,$99 ,"54,136",Introductory,English,Business & Management
+111,Introduction to Linear Models and Matrix Algebra,$149 ,"92,004",Intermediate,English,Math
+112,DO Your Venture: Entrepreneurship For Everyone,$150 ,"61,989",Introductory,English,Business & Management
+113,El valor de la creatividad y la innovación: La Economía Naranja,$25 ,"23,728",Introductory,Español,Art & Culture
+114,Humanitarian Response to Conflict and Disaster,$99 ,"119,891",Introductory,English,Health & Safety
+115,"Women Making History: Ten Objects, Many Stories",$99 ,"38,939",Introductory,English,History
+116,Masterpieces of World Literature,$149 ,"88,789",Introductory,English,Literature
+117,SQL for Data Science,$39 ,"39,184",Introductory,English,Data Analysis & Statistics
+118,El cerebro y las emociones en el lenguaje,$49 ,"41,279",Introductory,Español,Communication
+119,Science & Cooking: From Haute Cuisine to Soft Matter Science (physics),$169 ,"62,673",Introductory,English,Physics
+120,Python: aprender a programar,$49 ,"21,613",Introductory,Español,Computer Science
+121,Marketing Analytics: Competitive Analysis and Market Segmentation,$249 ,"70,682",Intermediate,English,Computer Science
+122,MalariaX: Defeating Malaria from the Genes to the Globe,$49 ,"37,598",Intermediate,English,Biology & Life Sciences
+123,Entrepreneurship in Emerging Economies,$125 ,"113,602",Introductory,English,Business & Management
+124,JavaScript Introduction,$199 ,"160,112",Introductory,English,Computer Science
+125,People Management,$150 ,"113,592",Introductory,English,Business & Management
+126,Using Email for Networking in English,$149 ,"57,208",Introductory,English,Language
+127,Databases: Relational Databases and SQL,$50 ,"20,502",Introductory,English,Computer Science
+128,C Programming: Getting Started,$49 ,"104,108",Introductory,English,Computer Science
+129,Supply Chain Analytics,$199 ,"145,049",Introductory,English,Business & Management
+130,Programming for the Web with JavaScript,$149 ,"91,406",Intermediate,English,Computer Science
+131,Introduction to Digital Humanities,$99 ,"37,501",Introductory,English,Humanities
+132,Upper-Intermediate English: Business and Industry,$50 ,"103,704",Intermediate,English,Language
+133,EmSAT English Preparation - Level 1,$49 ,"29,101",Introductory,English,Language
+134,Python for Data Science,$350 ,"266,978",Advanced,English,Data Analysis & Statistics
+135,Empathy and Emotional Intelligence at Work,$199 ,"45,867",Introductory,English,Business & Management
+136,Design Thinking and Creativity for Innovation,$5 ,"47,549",Intermediate,English,Business & Management
+137,China and Communism,$139 ,"69,104",Introductory,English,History
+138,Mandarin Chinese Level 1,$149 ,"56,040",Introductory,English,Language
+139,Introduction to Biology - The Secret of Life,$150 ,"147,512",Introductory,English,Biology & Life Sciences
+140,Photoshop: una herramienta para presentaciones innovadoras,$19 ,"22,969",Introductory,Español,Art & Culture
+141,Causal Diagrams: Draw Your Assumptions Before Your Conclusions,$99 ,"50,949",Introductory,English,Data Analysis & Statistics
+142,生活英语听说 | Conversational English Skills,$49 ,"301,585",Introductory,English,Communication
+143,Shakespeare’s Othello: The Moor,$49 ,"31,868",Introductory,English,Humanities
+144,Basic Spanish 2: One Step Further,$50 ,"67,687",Introductory,English,Language
+145,Financial Market Analysis,$25 ,"37,452",Intermediate,English,Economics & Finance
+146,CS50's Computer Science for Business Professionals,$90 ,"73,208",Introductory,English,Computer Science
+147,Gobierno Digital,$25 ,"18,883",Introductory,Español,Social Sciences
+148,Upper-Intermediate English: Business and Globalization,$50 ,"58,532",Intermediate,English,Language
+149,The Opioid Crisis in America,$99 ,"54,805",Introductory,English,Medicine
+150,Gestión de Proyectos de Desarrollo,$49 ,"306,286",Introductory,Español,Business & Management
+151,Statistical Learning,$50 ,"27,968",Introductory,English,Data Analysis & Statistics
+152,Introduction to Social Psychology,$99 ,"79,365",Introductory,English,Humanities
+153,Artificial Intelligence (AI),$249 ,"265,104",Advanced,English,Computer Science
+154,American Government: Constitutional Foundations,$49 ,"35,504",Introductory,English,Social Sciences
+155,Introducción a la inversión bursátil,$50 ,"64,261",Introductory,Español,Economics & Finance
+156,Japanese Books: From Manuscript to Print,$100 ,"17,581",Introductory,English,Art & Culture
+157,Foundations of Modern Finance  I,$450 ,"24,108",Advanced,English,Economics & Finance
+158,Operations Management,$150 ,"126,093",Intermediate,English,Business & Management
+159,Marketing Management,$150 ,"80,010",Intermediate,English,Business & Management
+160,Marketing enfocado en la estrategia de servicios,$119 ,"24,618",Introductory,Español,Business & Management
+161,Introduction to Marketing,$150 ,"169,126",Introductory,English,Business & Management
+162,Programming Basics,$149 ,"215,059",Introductory,English,Computer Science
+163,Probability and Statistics in Data Science using Python,$350 ,"106,286",Advanced,English,Data Analysis & Statistics
+164,HTML5 Coding Essentials and Best Practices,$199 ,"241,287",Intermediate,English,Computer Science
+165,First Nights - Beethoven's 9th Symphony and the 19th Century Orchestra,$49 ,"37,426",Introductory,English,Humanities
+166,Cell Biology: Mitochondria,$99 ,"64,142",Introductory,English,Biology & Life Sciences
+167,"Algorithms: Design and Analysis, Part 1",$149 ,"20,163",Intermediate,English,Computer Science
+168,Introducción al Office 365,$75 ,"16,470",Introductory,Español,Computer Science
+169,Creative Thinking: Techniques and Tools for Success,$49 ,"54,787",Introductory,English,Humanities
+170,Upper-Intermediate English: Business and Technology,$50 ,"47,451",Intermediate,English,Language
+171,Shakespeare's Hamlet: The Ghost,$49 ,"38,331",Introductory,English,Humanities
+172,FlashDiet: Aprende a comer sano,$50 ,"48,105",Introductory,Español,Food & Nutrition
+173,CS50's Understanding Technology,$90 ,"50,030",Introductory,English,Computer Science
+174,Introduction to Aerospace Structures and Materials,$50 ,"37,126",Introductory,English,Engineering
+175,Visualizing Data with Python,$39 ,"42,101",Intermediate,English,Data Analysis & Statistics
+176,Success: Practical Thinking Skills,$50 ,"24,414",Introductory,English,Philosophy & Ethics
+177,English for Doing Business in Asia – Speaking,$60 ,"68,422",Introductory,English,Humanities
+178,Nutrition and Health: Macronutrients and Overnutrition,$99 ,"208,582",Introductory,English,Biology & Life Sciences
+179,"Contemporary China: The People's Republic, Taiwan, and Hong Kong",$139 ,"66,771",Introductory,English,History
+180,Introduction to Clinical Psychology,$99 ,"57,234",Introductory,English,Humanities
+181,Modern Masterpieces of World Literature,$99 ,"48,049",Introductory,English,Literature
+182,"Citizen Politics in America: Public Opinion, Elections, Interest Groups, and the Media",$49 ,"24,259",Introductory,English,Social Sciences
+183,Applied Scrum for Agile Project Management,$199 ,"55,293",Advanced,English,Engineering
+184,Corporate Finance,$150 ,"62,798",Intermediate,English,Business & Management
+185,Judaism Through Its Scriptures,$99 ,"50,540",Introductory,English,Humanities
+186,Excel avanzado: importación y análisis de datos,$75 ,"47,184",Advanced,Español,Data Analysis & Statistics
+187,CSS Basics,$199 ,"95,163",Introductory,English,Computer Science
+188,Unlocking Information Security: Part I,$149 ,"19,905",Intermediate,English,Computer Science
+189,Becoming an Effective Leader,$99 ,"55,937",Intermediate,English,Communication
+190,Digital Branding and Engagement,$99 ,"122,977",Intermediate,English,Communication
+191,Introduction to Cybersecurity,$199 ,"73,021",Introductory,English,Computer Science
+192,General Academic English|生活英语进阶,$49 ,"17,526",Introductory,English,Language
+193,Gestión de personas: Recursos Humanos,$119 ,"19,687",Introductory,Español,Business & Management
+194,From Poverty to Prosperity: Understanding Economic Development,$149 ,"91,062",Intermediate,English,Social Sciences
+195,Medical Terminology,$79 ,"31,354",Introductory,English,Biology & Life Sciences
+196,Ancient Masterpieces of World Literature,$99 ,"48,899",Introductory,English,Literature
+197,Shakespeare's The Merchant of Venice: Shylock,$49 ,"23,283",Introductory,English,Humanities
+198,Gestión del estrés y Mindfulness,$49 ,"15,965",Introductory,Español,Health & Safety
+199,Behavioural Economics in Action,$139 ,"66,764",Introductory,English,Business & Management
+200,Finance for Everyone: Smart Tools for Decision-Making,$49 ,"45,029",Introductory,English,Business & Management
+201,Creating Innovative Business Models,$149 ,"12,227",Introductory,English,Business & Management
+202,u.lab: Leading From the Emerging Future,$99 ,"79,424",Introductory,English,Business & Management
+203,Electric Cars: Introduction,$50 ,"56,171",Intermediate,English,Engineering
+204,Inteligencia Artificial para todos: Domina los fundamentos,$49 ,"11,764",Introductory,Español,Computer Science
+205,Marketing Analytics,$249 ,"55,228",Advanced,English,Business & Management
+206,Introducción a la Regulación Emocional basada en Mindfulness,$49 ,"20,634",Introductory,Español,Health & Safety
+207,Design Thinking Fundamentals,$299 ,"56,446",Intermediate,English,Business & Management
+208,Basic Spanish 3: Getting there,$50 ,"17,569",Introductory,English,Language
+209,Mi propia huerta orgánica,$29 ,"11,346",Introductory,Español,Biology & Life Sciences
+210,Sustainability in Architecture: An Interdisciplinary Introduction,$50 ,"31,352",Intermediate,English,Architecture
+211,Gestión de riesgos en proyectos de desarrollo,$25 ,"47,676",Intermediate,Español,Business & Management
+212,Python Data Structures,$49 ,"36,369",Introductory,English,Computer Science
+213,The Science and Business of Biotechnology,$49 ,"17,039",Intermediate,English,Business & Management
+214,Finance Essentials,$79 ,"63,666",Introductory,English,Business & Management
+215,Introduction to the Internet of Things (IoT),$149 ,"89,421",Introductory,English,Computer Science
+216,'Talk to me': Improving mental health and suicide prevention in young adults,$139 ,"11,481",Introductory,English,Health & Safety
+217,Disaster Medicine Training,$50 ,"10,937",Introductory,English,Medicine
+218,Nutrition and Health: Human Microbiome,$49 ,"44,079",Introductory,English,Health & Safety
+219,Customer Relationship Management,$50 ,"53,085",Intermediate,English,Business & Management
+220,Islam Through Its Scriptures,$99 ,"65,430",Introductory,English,Humanities
+221,Mechatronics Revolution: Fundamentals and Core Concepts,$149 ,"11,619",Introductory,English,Engineering
+222,Accounting for Decision-Making,$150 ,"57,710",Intermediate,English,Business & Management
+223,C Programming: Language Foundations,$49 ,"46,400",Introductory,English,Computer Science
+224,Big Data sin misterios,$25 ,"65,564",Intermediate,Español,Data Analysis & Statistics
+225,Becoming a Successful Leader (Inclusive Leadership Training),$49 ,"215,705",Introductory,English,Communication
+226,"English for Journalists, Part 1",$139 ,"50,847",Intermediate,English,Communication
+227,Introduction to Networking,$150 ,"16,134",Introductory,English,Computer Science
+228,Accounting Essentials,$79 ,"58,463",Introductory,English,Business & Management
+229,Introduction to Java Programming: Starting to code in Java,$149 ,"325,554",Introductory,English,Computer Science
+230,European Paintings: From Leonardo to Rembrandt to Goya,$99 ,"60,734",Introductory,English,Humanities
+231,Java Programming Fundamentals,$49 ,"12,042",Intermediate,English,Engineering
+232,"Hollywood: History, Industry, Art",$169 ,"50,033",Introductory,English,Communication
+233,Data Science Tools,$39 ,"15,627",Introductory,English,Data Analysis & Statistics
+234,Statistical Thinking for Data Science and Analytics,$99 ,"198,861",Introductory,English,Computer Science
+235,Philosophy and Critical Thinking,$99 ,"97,175",Introductory,English,Humanities
+236,International Law,$150 ,"91,868",Advanced,English,Law
+237,Tourism and Travel Management,$5 ,"38,503",Introductory,English,Business & Management
+238,Project Management Life Cycle,$150 ,"120,019",Intermediate,English,Business & Management
+239,Solar Energy,$50 ,"125,069",Introductory,English,Engineering
+240,Public Speaking,$199 ,"10,129",Introductory,English,Communication
+241,Japanese Pronunciation for Communication,$99 ,"62,757",Introductory,日本語,Communication
+242,Mindfulness and Resilience to Stress at Work,$199 ,"33,414",Introductory,English,Business & Management
+243,Framing Your Communication to Inspire and Convince,$125 ,"49,351",Intermediate,English,Business & Management
+244,Business Foundations,$150 ,"55,154",Introductory,English,Business & Management
+245,The Chemistry of Life,$49 ,"78,704",Introductory,English,Biology & Life Sciences
+246,Nutrition and Health: Micronutrients and Malnutrition,$99 ,"78,266",Intermediate,English,Biology & Life Sciences
+247,Digital Design,$50 ,"12,339",Introductory,English,Design
+248,Machine Learning for Data Science and Analytics,$99 ,"140,419",Introductory,English,Computer Science
+249,The Science of Everyday Thinking,$99 ,"318,399",Introductory,English,Business & Management
+250,Gestion de projets de développement,$25 ,"41,663",Intermediate,Français,Business & Management
+251,Product Management Fundamentals,$199 ,"11,913",Introductory,English,Business & Management
+252,International Human Rights Law,$150 ,"74,424",Advanced,English,Law
+253,The Best Start in Life: Early Childhood Development for Sustainable Development,$49 ,"23,139",Intermediate,English,Education & Teacher Training
+254,Data Science and Machine Learning Capstone Project,$99 ,"21,809",Intermediate,English,Data Analysis & Statistics
+255,"Data Science for Construction, Architecture and Engineering",$199 ,"11,113",Introductory,English,Data Analysis & Statistics
+256,"Nutrition, Heart Disease and Diabetes",$99 ,"24,986",Intermediate,English,Food & Nutrition
+257,Project Management for Development,$49 ,"62,099",Intermediate,English,Business & Management
+258,Introduction to Cloud Infrastructure Technologies,$169 ,"86,923",Introductory,English,Computer Science
+259,"Circular Fashion: Design, Science and Value in a Sustainable Clothing Industry",$65 ,"13,566",Introductory,English,Art & Culture
+260,Machine Learning,$249 ,"150,855",Advanced,English,Computer Science
+261,Introducción a la gestión de proyectos,$50 ,"98,517",Introductory,Español,Business & Management
+262,Free Cash Flow Analysis,$225 ,"36,085",Introductory,English,Business & Management
+263,Lean Production,$99 ,"55,926",Introductory,English,Business & Management
+264,Introduction to Algebra,$139 ,"131,197",Introductory,English,Math
+265,"LaTeX for Students, Engineers, and Scientists",$139 ,"11,823",Introductory,English,Engineering
+266,Leading With Effective Communication (Inclusive Leadership Training),$50 ,"107,770",Introductory,English,Communication
+267,Anatomy: Musculoskeletal and Integumentary Systems,$49 ,"51,969",Introductory,English,Biology & Life Sciences
+268,"Inglés empresarial: ventas, gestión y liderazgo",$49 ,"10,897",Introductory,English,Business & Management
+269,Business Strategy from Wharton: Competitive Advantage,$199 ,"26,675",Intermediate,English,Business & Management
+270,Inteligencia emocional para el liderazgo efectivo y colaboración,$49 ,"14,726",Introductory,Español,Social Sciences
+271,Introducción al desarrollo de aplicaciones web,$49 ,"27,757",Introductory,Español,Computer Science
+272,"Six Sigma: Analyze, Improve, Control",$99 ,"56,016",Introductory,English,Business & Management
+273,Introducción a la inteligencia emocional,$49 ,"18,830",Introductory,Español,Social Sciences
+274,AP® Microeconomics,$49 ,"53,664",Introductory,English,Economics & Finance
+275,Engineering Calculus and Differential Equations,$50 ,"21,535",Introductory,English,Math
+276,Linear Algebra - Foundations to Frontiers,$49 ,"88,570",Intermediate,English,Computer Science
+277,Habilidades de negociación y comunicación efectiva,$149 ,"19,614",Introductory,Español,Business & Management
+278,Effective Communication for Today's Leader,$149 ,"8,862",Intermediate,English,Business & Management
+279,Electric Cars: Technology,$50 ,"40,972",Intermediate,English,Engineering
+280,Site Planning Online,$99 ,"12,948",Intermediate,English,Design
+281,Macroeconometric Forecasting,$25 ,"69,358",Intermediate,English,Economics & Finance
+282,Administración pública y fiscal: cómo se gestiona un gobierno,$25 ,"49,189",Introductory,Español,Economics & Finance
+283,Fundamentals of Red Hat Enterprise Linux,$99 ,"53,788",Introductory,English,Computer Science
+284,Algorithms,$149 ,"61,722",Intermediate,English,Computer Science
+285,Calculus Applied!,$99 ,"54,976",Intermediate,English,Math
+286,Precalculus,$49 ,"55,576",Intermediate,English,Math
+287,Fundamentos de anatomía y técnica quirúrgica básica,$49 ,"12,133",Introductory,Español,Medicine
+288,Business Communications,$150 ,"60,713",Introductory,English,Business & Management
+289,Italian Language and Culture: Intermediate (2019-2020),$49 ,"35,058",Intermediate,Italiano,Language
+290,International Women's Health and Human Rights,$50 ,"9,796",Introductory,English,Social Sciences
+291,Blockchain: Understanding Its Uses and Implications,$199 ,"66,769",Introductory,English,Business & Management
+292,"A-level Mathematics for Year 12 - Course 1: Algebraic Methods, Graphs and Applied Mathematics Methods",$49 ,"22,366",Intermediate,English,Math
+293,Blockchain Technology,$99 ,"55,376",Intermediate,English,Computer Science
+294,Basics of Power BI,$49 ,"8,314",Introductory,English,Data Analysis & Statistics
+295,Preparing to Network in English,$149 ,"34,337",Introductory,English,Language
+296,Mandarin Chinese Essentials,$99 ,"36,665",Introductory,English,Language
+297,Human Rights: The Rights of Refugees,$49 ,"84,270",Introductory,English,Humanities
+298,What do Architects and Urban Planners do?,$49 ,"11,046",Introductory,English,Architecture
+299,"U.S. Political Institutions: Congress, Presidency, Courts, and Bureaucracy",$49 ,"22,723",Introductory,English,Social Sciences
+300,Negotiation Skills and Effective Communication,$149 ,"8,146",Intermediate,English,Business & Management
+301,AP® English Literature & Composition – Part 1: Stories,$49 ,"15,650",Introductory,English,Humanities
+302,"Viruses & How to Beat Them: Cells, Immunity, Vaccines",$149 ,"28,710",Introductory,English,Medicine
+303,Alianzas: un vehículo para lograr el desarrollo sostenible,$25 ,"17,554",Introductory,Español,Social Sciences
+304,Designing and Creating Skirts,$99 ,"13,954",Introductory,English,Design
+305,Cómo Aprender Online,$49 ,"7,958",Introductory,Español,Education & Teacher Training
+306,Computing in Python II: Control Structures,$99 ,"31,511",Introductory,English,Computer Science
+307,Facebook Ads: Cómo utilizar el poder de la publicidad en Facebook,$49 ,"29,614",Introductory,Español,Communication
+308,Machine Learning Fundamentals,$350 ,"82,008",Advanced,English,Data Analysis & Statistics
+309,Pre-University Calculus,$50 ,"103,224",Introductory,English,Math
+310,Tsinghua Chinese: Start Talking with 1.3 Billion People,$49 ,"58,834",Introductory,English,Language
+311,Deep Learning with Python and PyTorch,$99 ,"36,195",Intermediate,English,Data Analysis & Statistics
+312,Diseña presentaciones eficaces con Powerpoint,$50 ,"36,663",Introductory,Español,Computer Science
+313,World of Wine: From Grape to Glass,$199 ,"81,839",Introductory,English,Science
+314,Sustainable Cities,$49 ,"16,619",Intermediate,English,Environmental Studies
+315,Introduction to Developmental Psychology,$99 ,"38,060",Introductory,English,Humanities
+316,Creativity & Entrepreneurship,$49 ,"69,413",Introductory,English,Business & Management
+317,College Algebra and Problem Solving,$49 ,"103,010",Introductory,English,Math
+318,Academic writing for clarity and meaning,$49 ,"16,220",Introductory,English,Education & Teacher Training
+319,Financial Development and Financial Inclusion,$25 ,"13,853",Intermediate,English,Economics & Finance
+320,Global Public Health,$49 ,"17,273",Intermediate,English,Health & Safety
+321,Embedded Systems - Shape The World: Microcontroller Input/Output,$49 ,"69,182",Intermediate,English,Computer Science
+322,Introduction to Animal Behaviour,$49 ,"42,135",Introductory,English,Biology & Life Sciences
+323,Circular Economy: An Introduction,$50 ,"50,240",Introductory,English,Business & Management
+324,Public Financial Management,$25 ,"23,288",Intermediate,English,Economics & Finance
+325,Anatomy: Human Neuroanatomy,$49 ,"49,319",Introductory,English,Biology & Life Sciences
+326,Android: Introducción a la Programación,$50 ,"85,786",Introductory,Español,Computer Science
+327,The Ancient Greek Hero,$99 ,"51,744",Introductory,English,Humanities
+328,Agile Leadership Principles and Practices,$199 ,"31,838",Advanced,English,Engineering
+329,How to Code: Simple Data,$125 ,"98,113",Introductory,English,Computer Science
+330,Cybersecurity and Privacy in the IoT,$199 ,"21,440",Introductory,English,Computer Science
+331,Strategic Management,$150 ,"71,085",Introductory,English,Business & Management
+332,Introducción a la ciencia de datos y sus aplicaciones,$39 ,"7,303",Introductory,Español,Data Analysis & Statistics
+333,"Biochemistry: Biomolecules, Methods, and Mechanisms",$150 ,"18,692",Intermediate,English,Biology & Life Sciences
+334,Astronomía Virtual,$29 ,"10,500",Introductory,Español,Science
+335,Nutrition and Cancer,$99 ,"27,144",Intermediate,English,Food & Nutrition
+336,Build your very first iOS app,$149 ,"31,570",Introductory,English,Computer Science
+337,Object-Oriented Programming,$149 ,"93,633",Introductory,English,Computer Science
+338,Introduction to Jenkins,$199 ,"7,233",Introductory,English,Computer Science
+339,Conducting an Informational Interview,$99 ,"15,594",Introductory,English,Language
+340,Liderazgo y comportamiento organizacional,$149 ,"21,419",Introductory,Español,Business & Management
+341,Creative Coding,$249 ,"18,660",Introductory,English,Design
+342,Análisis estadístico con Excel,$49 ,"22,717",Introductory,Español,Data Analysis & Statistics
+343,Introducción a la Ingeniería del Software,$49 ,"17,931",Introductory,Español,Computer Science
+344,Computer Graphics,$99 ,"98,553",Intermediate,English,Computer Science
+345,Data Science: Computational Thinking with Python,$199 ,"78,232",Introductory,English,Computer Science
+346,Comunicación efectiva para el líder actual,$149 ,"18,470",Introductory,Español,Communication
+347,Debate y argumentación,$49 ,"10,954",Introductory,Español,Humanities
+348,Deep Learning with Tensorflow,$99 ,"37,564",Intermediate,English,Data Analysis & Statistics
+349,Machine Learning (aprendizaje automático) con Python: una introducción práctica,$49 ,"39,155",Introductory,Español,Computer Science
+350,Essential Human Biology: Cells and Tissues,$169 ,"67,961",Introductory,English,Medicine
+351,"Writing, Presenting and Submitting Scientific Papers in English | 英文科技论文写作与学术报告",$49 ,"35,720",Intermediate,English,Communication
+352,Computing in Python III: Data Structures,$99 ,"27,239",Introductory,English,Computer Science
+353,Introduction to Internet of Things (IoT),$49 ,"6,703",Introductory,English,Data Analysis & Statistics
+354,Nutrition and Health: Food Risks,$49 ,"51,493",Introductory,English,Biology & Life Sciences
+355,Mechanics: Kinematics and Dynamics,$49 ,"35,529",Intermediate,English,Physics
+356,Storytelling for Social Change,$49 ,"30,313",Introductory,English,Communication
+357,Introduction to Data Analytics for Managers,$49 ,"39,113",Introductory,English,Business & Management
+358,Qualitative Research Methods: Conversational Interviewing,$49 ,"21,972",Intermediate,English,Humanities
+359,International Project Management,$150 ,"45,145",Advanced,English,Business & Management
+360,Software Development Fundamentals,$149 ,"51,402",Intermediate,English,Computer Science
+361,"First Nights - Stravinsky’s Rite of Spring: Modernism, Ballet, and Riots",$49 ,"17,484",Introductory,English,Humanities
+362,Critical Thinking & Problem Solving,$199 ,"6,558",Introductory,English,Communication
+363,Data Analysis Essentials,$79 ,"42,262",Introductory,English,Business & Management
+364,Master Control in Supply Chain Management and Logistics,$49 ,"31,326",Introductory,English,Business & Management
+365,Work and Employment for a Sustainable Future,$49 ,"6,528",Intermediate,English,Economics & Finance
+366,Foundations of Data Structures,$149 ,"54,075",Intermediate,English,Computer Science
+367,"Financial Programming and Policies, Part 1: Macroeconomic Accounts & Analysis",$25 ,"31,024",Intermediate,English,Economics & Finance
+368,IoT System Design: Software and Hardware Integration,$99 ,"13,608",Intermediate,English,Computer Science
+369,English for Doing Business in Asia – Writing,$60 ,"44,252",Introductory,English,Humanities
+370,Working in Teams: A Practical Guide,$49 ,"43,981",Introductory,English,Humanities
+371,Introducción a los encofrados y las cimbras en obra civil y edificación,$50 ,"16,029",Introductory,Español,Engineering
+372,AI Chatbots without Programming,$99 ,"35,440",Introductory,English,Computer Science
+373,Introducción a la Ciencia de Datos y el Big Data,$49 ,"16,268",Intermediate,Español,Data Analysis & Statistics
+374,Just Money: Banking as if Society Mattered,$49 ,"25,553",Introductory,English,Business & Management
+375,Introducción a R,$49 ,"6,431",Introductory,Español,Data Analysis & Statistics
+376,Computing in Python IV: Objects & Algorithms,$99 ,"28,112",Introductory,English,Computer Science
+377,Adobe Illustrator: aprende a crear presentaciones de impacto,$15 ,"18,613",Introductory,Español,Design
+378,Teaching Critical Thinking through Art with the National Gallery of Art,$25 ,"18,595",Introductory,English,Education & Teacher Training
+379,Word intermedio: herramientas de formato y productividad,$50 ,"10,265",Intermediate,Español,Computer Science
+380,Introducción a las finanzas: Principios de valoración,$49 ,"17,344",Intermediate,Español,Economics & Finance
+381,Aprende a diseñar jardines verticales y cuadros vivos,$29 ,"6,341",Introductory,Español,Biology & Life Sciences
+382,"Anatomy: Cardiovascular, Urinary, and Respiratory Systems",$49 ,"36,917",Introductory,English,Biology & Life Sciences
+383,Software Engineering: Introduction,$125 ,"35,524",Advanced,English,Computer Science
+384,Structure of Materials,$150 ,"13,042",Intermediate,English,Engineering
+385,Fundamentos de fotografía documental,$49 ,"13,036",Introductory,Español,Art & Culture
+386,AP® Italian Language and Culture (2020-2021),$49 ,"39,398",Advanced,Italiano,Humanities
+387,Computer Hardware and Operating Systems,$150 ,"9,715",Introductory,English,Computer Science
+388,Marketing Management,$214 ,"43,415",Advanced,English,Business & Management
+389,You Can Innovate: User  Innovation & Entrepreneurship,$49 ,"18,974",Introductory,English,Business & Management
+390,Analytics in Python,$249 ,"82,210",Intermediate,English,Business & Management
+391,Bases Matemáticas: Álgebra,$50 ,"35,811",Introductory,Español,Math
+392,HTML5 Apps and Games,$199 ,"86,850",Advanced,English,Computer Science
+393,MATLAB and Octave for Beginners,$139 ,"68,706",Introductory,English,Computer Science
+394,AP Physics 1,$49 ,"43,401",Introductory,English,Physics
+395,The Divine Comedy: Dante's Journey to Freedom,$49 ,"12,005",Introductory,English,Humanities
+396,Linux Basics: The Command Line Interface,$49 ,"32,726",Introductory,English,Computer Science
+397,Entrepreneurial Operations: Launching a Startup,$149 ,"23,808",Intermediate,English,Business & Management
+398,Maths Essentials,$79 ,"44,642",Introductory,English,Business & Management
+399,"Marketing Analytics: Products, Distribution and Sales",$249 ,"50,588",Intermediate,English,Computer Science
+400,Marketing Innovative Products and Services,$149 ,"6,293",Introductory,English,Business & Management
+401,Just Reading and Writing in English | 生活英语读写,$149 ,"33,303",Introductory,English,Art & Culture
+402,Introduction to Java Programming – Part 1,$99 ,"270,376",Introductory,English,Computer Science
+403,Comunicación y Redacción Digital,$29 ,"7,165",Introductory,Español,Communication
+404,Monetary Policy Analysis and Forecasting,$25 ,"6,616",Advanced,English,Economics & Finance
+405,Basic Analytical Chemistry,$49 ,"19,010",Introductory,English,Chemistry
+406,Identifying Entrepreneurial Opportunities,$149 ,"11,922",Introductory,English,Business & Management
+407,"ChinaX Book Club: Five Authors, Five Books, Five Views of China",$139 ,"5,855",Introductory,English,Literature
+408,Astrophysics: Cosmology,$50 ,"83,322",Intermediate,English,Physics
+409,Japanese Culture and Language (I) |日语与日本文化（1）,$139 ,"18,489",Introductory,中文,Art & Culture
+410,COVID-19 Training for Healthcare Workers,$10 ,"5,742",Introductory,English,Medicine
+411,The Rise of Superheroes and Their Impact On Pop Culture,$50 ,"31,368",Introductory,English,Humanities
+412,Introduction to Aeronautical Engineering,$50 ,"99,971",Introductory,English,Engineering
+413,Diseño de Jardines,$29 ,"5,683",Introductory,Español,Biology & Life Sciences
+414,"Introducción al griego clásico: lengua, nombres y mitología",$49 ,"18,849",Introductory,Español,Language
+415,Deep Learning Fundamentals with Keras,$99 ,"32,140",Intermediate,English,Data Analysis & Statistics
+416,Existential Well-being Counseling: A Person-centered Experiential Approach,$49 ,"48,439",Introductory,English,Humanities
+417,Solid Waste Management,$5 ,"7,668",Introductory,English,Environmental Studies
+418,Retail Fundamentals,$99 ,"37,558",Intermediate,English,Business & Management
+419,Greatest Unsolved Mysteries of the Universe,$50 ,"93,965",Intermediate,English,Physics
+420,"Money Markets, Foreign Exchange and Time Value of Money",$199 ,"12,230",Introductory,English,Economics & Finance
+421,Gestión de Contenidos Digitales y Marketing Turístico de Ciudad,$49 ,"14,627",Introductory,Español,Communication
+422,Designing the User Experience,$199 ,"6,416",Introductory,English,Business & Management
+423,Introduction to Bioconductor,$149 ,"36,370",Intermediate,English,Data Analysis & Statistics
+424,Connected Strategy,$199 ,"10,355",Intermediate,English,Business & Management
+425,Hybrid Vehicles,$249 ,"18,294",Advanced,English,Engineering
+426,First Nights - Handel's Messiah and Baroque Oratorio,$49 ,"18,029",Introductory,English,Humanities
+427,Statistical Inference and Modeling for High-throughput Experiments,$149 ,"51,590",Intermediate,English,Data Analysis & Statistics
+428,First Nights - Monteverdi’s L’Orfeo and the Birth of Opera,$49 ,"13,300",Introductory,English,Humanities
+429,18th-Century Opera: Handel & Mozart,$99 ,"18,331",Introductory,English,Music
+430,Introduction to video game development with Unity,$50 ,"7,605",Intermediate,English,Computer Science
+431,Best Practices for Project Management Success,$150 ,"46,610",Intermediate,English,Business & Management
+432,Fundamentos de la Tecnología Blockchain,$49 ,"5,473",Introductory,Español,Economics & Finance
+433,Información financiera y su análisis,$49.99 ,"5,473",Advanced,Español,Economics & Finance
+434,Coaching Skills for Learner-Centred Conversations,$49 ,"8,089",Introductory,English,Education & Teacher Training
+435,Intellectual Property Law and Policy: Part 1,$169 ,"43,993",Intermediate,English,Law
+436,Robotics,$249 ,"68,199",Advanced,English,Computer Science
+437,La gestion des ressources humaines,$99 ,"6,824",Introductory,Français,Business & Management
+438,Writing for Social Justice,$50 ,"9,927",Introductory,English,Humanities
+439,Steps in Japanese for Beginners1 Part2,$99 ,"8,080",Introductory,English,Language
+440,Case Studies in Functional Genomics,$149 ,"26,850",Advanced,English,Data Analysis & Statistics
+441,Essential Career Skills for Investment Banking and Finance,$49 ,"11,655",Introductory,English,Business & Management
+442,Data Structures and Software Design,$149 ,"30,609",Intermediate,English,Computer Science
+443,Unconscious Bias: From Awareness to Action,$49 ,"26,659",Introductory,English,Communication
+444,Cybersecurity for Critical Urban Infrastructure,$100 ,"5,306",Advanced,English,Computer Science
+445,"Agile Process, Project, and Program Controls",$199 ,"16,339",Advanced,English,Engineering
+446,Risk Management in Development Projects,$25 ,"13,263",Intermediate,English,Business & Management
+447,"Pintura europea: Leonardo, Rembrandt, Goya",$29 ,"32,635",Introductory,Español,Humanities
+448,Risk & Return,$225 ,"21,970",Introductory,English,Business & Management
+449,Project Management of Engineering Projects: Preparing for Success,$99 ,"42,834",Intermediate,English,Business & Management
+450,Supply Chain Dynamics,$299 ,"75,464",Advanced,English,Business & Management
+451,AWS Developer: Building on AWS,$149 ,"54,249",Advanced,English,Computer Science
+452,Financial Accounting Made Fun: Eliminating Your Fears,$199 ,"36,787",Introductory,English,Business & Management
+453,PredictionX: John Snow and the Cholera Epidemic of 1854,$25 ,"17,713",Introductory,English,History
+454,Gestión de operaciones,$119 ,"9,512",Introductory,Español,Business & Management
+455,Microeconomics & Business,$79 ,"10,962",Introductory,English,Economics & Finance
+456,Inteligencia artificial: Chatbots sin programación,$49 ,"5,001",Introductory,Español,Computer Science
+457,Diseño e innovación de modelo de negocios,$99 ,"7,180",Advanced,Español,Business & Management
+458,Unlocking Investment and Finance in Emerging Markets and Developing Economies (EMDEs),$5 ,"29,171",Introductory,English,Economics & Finance
+459,Business Communication,$199 ,,Introductory,English,Communication
+460,Gestão de riscos em projetos,$25 ,"8,771",Intermediate,Português,Business & Management
+461,Vocal Recording Technology,$49 ,"52,369",Introductory,English,Engineering
+462,Agua 2.0: empresas eficientes para el siglo XXI,$25 ,,Introductory,Español,Business & Management
+463,IoT Sensors and Devices,$199 ,"33,072",Introductory,English,Computer Science
+464,Introducción a las tecnologías para la Educación,$49 ,"31,533",Introductory,Español,Computer Science
+465,Fundamentos de la guitarra eléctrica y acústica,$49 ,"13,124",Introductory,Español,Music
+466,e-Learning on Digital Agriculture,$5 ,"6,238",Introductory,English,Environmental Studies
+467,Exploring GraphQL: A Query Language for APIs,$149 ,"9,503",Introductory,English,Computer Science
+468,EmSAT English Preparation - Level 2,$49 ,"7,346",Intermediate,English,Language
+469,The Data Science Method,$39 ,"7,868",Introductory,English,Data Analysis & Statistics
+470,"Plato, Socrates, and the Birth of Western Philosophy | 西方哲学精神探源",$49 ,"21,291",Introductory,English,Humanities
+471,"Cosmic Rays, Dark Matter, and the Mysteries of the Universe",$49 ,"12,888",Intermediate,English,Physics
+472,Macroeconomic Diagnostics,$25 ,"23,408",Intermediate,English,Economics & Finance
+473,BioStatistics,$79 ,"14,937",Introductory,English,Biology & Life Sciences
+474,Results-Based Project Management: Monitoring and Evaluation,$199 ,"32,810",Intermediate,English,Business & Management
+475,Estrategias y estilos de negociación,$149 ,"12,639",Introductory,Español,Business & Management
+476,Políticas efectivas de desarrollo infantil,$25 ,"64,387",Intermediate,Español,Social Sciences
+477,Alzheimer’s Disease & Dementia Care,$49 ,"5,763",Intermediate,English,Medicine
+478,Understanding Classroom Interaction,$49 ,"27,114",Introductory,English,Education & Teacher Training
+479,Sign Language Science: Emergence and Evolution of Sign Language,$99 ,"8,313",Introductory,English,Language
+480,International Humanitarian Law,$150 ,"31,419",Advanced,English,Law
+481,"Educación de calidad para todos: equidad, inclusión y atención a la diversidad",$49 ,"25,111",Introductory,Español,Education & Teacher Training
+482,Introduction to Astrophysics,$139 ,"20,802",Introductory,English,Physics
+483,Epidemics I,$139 ,"10,618",Introductory,English,Medicine
+484,Introducción a la genética y la evolución,$49 ,"15,297",Introductory,Español,Biology & Life Sciences
+485,Fundamentals of Macroeconomics,$129 ,"17,820",Introductory,English,Economics & Finance
+486,"Blockchain and FinTech: Basics, Applications, and Limitations",$199 ,"22,011",Introductory,English,Computer Science
+487,Molecular Biology - Part 2: Transcription and Transposition,$99 ,"18,168",Advanced,English,Biology & Life Sciences
+488,"One Planet, One Ocean",$49 ,"12,166",Intermediate,English,Environmental Studies
+489,Reputation Management in a Digital World,$99 ,"39,672",Intermediate,English,Communication
+490,Google Ads: publicidad efectiva,$49 ,"12,084",Introductory,Español,Business & Management
+491,Introducción a la energía solar fotovoltaica: El módulo fotovoltaico,$50 ,"14,673",Intermediate,Español,Engineering
+492,Computer Vision Fundamentals with Watson and OpenCV,$99 ,"7,032",Introductory,English,Computer Science
+493,Japanese Business Management,$129 ,"14,852",Intermediate,English,Business & Management
+494,Introduction to Cloud Computing,$49 ,,Introductory,English,Computer Science
+495,Fundamentos de logística,$29 ,"7,397",Introductory,Español,Engineering
+496,Sustainable Urban Development,$50 ,"45,760",Introductory,English,Social Sciences
+497,Introduction to Biomedical Imaging,$99 ,"56,485",Introductory,English,Medicine
+498,Introducción a la programación en Java: empezando a programar,$49 ,"23,321",Introductory,Español,Computer Science
+499,"Circuits and Electronics 2: Amplification, Speed, and Delay",$169 ,"9,665",Intermediate,English,Electronics
+500,China’s Political and Intellectual Foundations: From Sage Kings to Confucius,$139 ,"47,083",Introductory,English,History
+501,Introduction to DevOps and Site Reliability Engineering,$149 ,"8,697",Introductory,English,Computer Science
+502,SQL aplicado en la  ciencia de datos,$39 ,,Introductory,Español,Data Analysis & Statistics
+503,Sign Language Science: Factors Contributing to Nature Structure,$99 ,,Introductory,English,Language
+504,Gender and Intersectionality,$50 ,,Introductory,English,Humanities
+505,Digital Transformation in Business,$214 ,"10,118",Advanced,English,Business & Management
+506,Designing and Creating Trousers,$99 ,"7,544",Introductory,English,Design
+507,Introducción a la teoría política: conceptos y grandes pensadores,$59 ,"11,741",Introductory,Español,Social Sciences
+508,"Human Rights, Human Wrongs: Challenging Poverty, Vulnerability and Social Exclusion",$49 ,"11,426",Intermediate,English,Social Sciences
+509,Industry 4.0: How to Revolutionize your Business,$50 ,"28,404",Introductory,English,Business & Management
+510,Desafíos y oportunidades en la economía digital,$25 ,"47,792",Introductory,Español,Economics & Finance
+511,Pensamiento crítico: toma de decisiones razonadas,$149 ,"16,853",Introductory,Español,Business & Management
+512,"MathTrackX: Polynomials, Functions and Graphs",$79 ,,Introductory,English,Math
+513,Sustainable Food Security: Crop Production,$49 ,"35,367",Intermediate,English,Biology & Life Sciences
+514,Network and Security Foundations,$299.70 ,"7,301",Introductory,English,Computer Science
+515,Cannabis Cultivation and Processing,$179 ,"7,419",Introductory,English,Environmental Studies
+516,"Data, Models and Decisions in Business Analytics",$249 ,"36,289",Advanced,English,Business & Management
+517,Data Structures Fundamentals,$99 ,"42,381",Intermediate,English,Computer Science
+518,Shaping Work of the Future,$49 ,"22,246",Introductory,English,Business & Management
+519,Introducción a la robótica e industria 4.0,$49 ,"7,056",Introductory,Español,Computer Science
+520,Fighting for Equality: 1950–2018,$50 ,"9,274",Intermediate,English,History
+521,"Design Thinking: Ideation, Iteration and Communication",$299 ,"14,629",Intermediate,English,Business & Management
+522,Negotiation Strategies and Styles,$149 ,,Intermediate,English,Business & Management
+523,Crear música con tecnología,$49 ,"10,961",Introductory,Español,Music
+524,Análisis de datos: Diseño y Visualización de Tableros,$49 ,"18,368",Intermediate,Español,Computer Science
+525,Comunicación estratégica: gestión de crisis e imagen pública,$49 ,"7,017",Introductory,Español,Communication
+526,"Understanding Agribusiness, Value Chains, and Consumers in Global Food Systems",$199 ,"14,052",Intermediate,English,Business & Management
+527,Unlocking Information Security: Part II,$149 ,"6,426",Intermediate,English,Computer Science
+528,Human Rights Defenders,$49 ,"27,338",Introductory,English,Social Sciences
+529,Product Design: The Delft Design Approach,$79 ,"87,539",Intermediate,English,Business & Management
+530,Introduction to Psychology | 心理学概论,$139 ,"30,731",Introductory,中文,Philosophy & Ethics
+531,Circuits and Electronics 3: Applications,$169 ,"9,347",Intermediate,English,Electronics
+532,Vaccines: from smallpox to technologies of the future,$49 ,"6,166",Intermediate,English,Medicine
+533,Le management,$149 ,"6,273",Introductory,Français,Business & Management
+534,Circular Economy for a Sustainable Built Environment,$50 ,"8,032",Intermediate,English,Architecture
+535,Agile Innovation and Problem Solving Skills,$199 ,"12,667",Advanced,English,Engineering
+536,International Investment Law,$150 ,"23,335",Advanced,English,Law
+537,Animation and CGI Motion,$249 ,"36,827",Advanced,English,Computer Science
+538,Terrorism and Counterterrorism,$49 ,"28,580",Introductory,English,Humanities
+539,Découvrir le marketing,$150 ,"30,030",Intermediate,Français,Business & Management
+540,Solar Energy: Photovoltaic (PV) Energy Conversion,$250 ,"38,041",Advanced,English,Engineering
+541,Introduction to Actuarial Science,$49 ,"52,667",Introductory,English,Data Analysis & Statistics
+542,PredictionX: Lost Without Longitude,$49 ,"9,114",Introductory,English,History
+543,Information Technology Foundations,$399.60 ,"6,388",Introductory,English,Computer Science
+544,Introducción a la Inteligencia Artificial de Watson,$49 ,,Introductory,Español,Computer Science
+545,Dealing with Power and Dynamics: Discover Your Leadership Style and Influence Stakeholders,$125 ,"16,013",Intermediate,English,Business & Management
+546,Instructional Design and Technology: Learning Theories,$299 ,"21,296",Intermediate,English,Education & Teacher Training
+547,"Algorithms: Design and Analysis, Part 2",$149 ,,Intermediate,English,Computer Science
+548,The Math of Data Science: Linear Algebra,$159 ,"6,746",Intermediate,English,Math
+549,Introducción al quirófano,$49 ,,Intermediate,Español,Medicine
+550,The Hardware of a Quantum Computer,$79 ,"20,052",Intermediate,English,Physics
+551,Grabar y mezclar música,$49 ,"10,856",Introductory,Español,Music
+552,Leadership focused on Human Flourishing,$149 ,,Intermediate,English,Business & Management
+553,Automata Theory,$129 ,,Advanced,English,Computer Science
+554,¡Conceptos básicos de Python para Data Science!,$49 ,,Introductory,Español,Data Analysis & Statistics
+555,Herramientas para el Análisis de Big Data,$49 ,"8,118",Intermediate,Español,Data Analysis & Statistics
+556,Foundations of Central Bank Law,$25 ,"6,169",Intermediate,English,Law
+557,C Programming: Modular Programming and Memory Management,$49 ,"18,690",Introductory,English,Computer Science
+558,Enseñanza temprana de matemáticas y ciencias,$25 ,"8,250",Introductory,Español,Education & Teacher Training
+559,Entrepreneurship 102: What can you do for your customer?,$49 ,"11,275",Introductory,English,Business & Management
+560,Italian Language and Culture: Advanced (2019-2020),$49 ,"24,667",Advanced,Italiano,Language
+561,Introduction to Marketing,$149 ,,Introductory,English,Business & Management
+562,Origins of the Human Mind,$49 ,"11,812",Introductory,English,Science
+563,Introduction to Geometry,$50 ,"61,824",Introductory,English,Math
+564,The Future of Work: Preparing for Disruption,$5 ,"43,125",Introductory,English,Economics & Finance
+565,Clinical Reasoning Process,$149 ,"5,367",Introductory,English,Medicine
+566,Datos para la efectividad de las políticas públicas,$25 ,"80,425",Introductory,Español,Data Analysis & Statistics
+567,Media Law,$249 ,"7,253",Introductory,English,Art & Culture
+568,Líderes para la Gestión en Seguridad Ciudadana y Justicia,$25 ,"12,826",Intermediate,Español,Social Sciences
+569,"Diseña, fabrica y programa tu propio robot",$75 ,"25,024",Introductory,Español,Engineering
+570,Pivoting to Online Teaching: Research and Practitioner Perspectives,$139 ,"5,289",Introductory,English,Education & Teacher Training
+571,Circular Economy: An Interdisciplinary Approach,$149 ,"10,281",Advanced,English,Business & Management
+572,Calculus 1B: Integration,$100 ,"44,669",Intermediate,English,Math
+573,Algorithmic Design and Techniques,$99 ,"40,620",Intermediate,English,Computer Science
+574,Drinking Water Treatment,$50 ,"51,918",Intermediate,English,Engineering
+575,Fundamentos de información financiera y contable,$49 ,"7,789",Intermediate,Español,Economics & Finance
+576,Les principes de la finance,$150 ,"44,037",Intermediate,Français,Business & Management
+577,Music Technology Foundations,$169 ,"34,550",Introductory,English,Computer Science
+578,The Entrepreneurial Mindset,$149 ,"31,077",Introductory,English,Business & Management
+579,"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems",$49 ,"26,453",Introductory,English,Biology & Life Sciences
+580,Risk Management and Credit Principles,$199 ,"9,028",Advanced,English,Economics & Finance
+581,Steps in Japanese for Beginners1 Part3,$99 ,"6,169",Introductory,English,Language
+582,Structural Materials: Selection and Economics,$50 ,"9,752",Introductory,English,Engineering
+583,Algorithm Design and Analysis,$149 ,"39,137",Intermediate,English,Computer Science
+584,Estructuras de Datos con Python,$49 ,,Introductory,Español,Computer Science
+585,Mandarin Chinese for Business,$149 ,"12,384",Intermediate,English,Language
+586,Bases Matemáticas: Números y terminología,$50 ,"26,060",Intermediate,Español,Math
+587,Arab-Islamic History: From Tribes to Empires,$149 ,"17,321",Introductory,English,Humanities
+588,Human-Computer Interaction I: Fundamentals & Design Principles,$99 ,"9,010",Introductory,English,Computer Science
+589,Modeling and simulation of multibody systems,$50 ,,Intermediate,English,Engineering
+590,The Science of Parenting,$49 ,"37,538",Introductory,English,Social Sciences
+591,Inclusive Teaching: Supporting All Students in the College Classroom,$49 ,"9,899",Introductory,English,Education & Teacher Training
+592,Analytics for Decision Making,$249 ,"31,031",Introductory,English,Business & Management
+593,Principios de Análisis e Instrumentos Financieros,$49 ,,Intermediate,Español,Economics & Finance
+594,Energy Principles and Renewable Energy,$375 ,"19,520",Advanced,English,Energy & Earth Sciences
+595,DNA: Biology’s Genetic Code,$169 ,"35,162",Intermediate,English,Biology & Life Sciences
+596,Music For Wellness,$49 ,"19,728",Introductory,English,Humanities
+597,Mining Massive Datasets,$149 ,"5,311",Advanced,English,Computer Science
+598,Introduction to Electrical and Electronic Engineering - 電気電子工学入門 -,$50 ,"25,041",Introductory,English,Engineering
+599,A travel by Spanish America: Spanish for beginners,$49 ,,Introductory,Español,Language
+600,Introducción a la Inteligencia Artificial,$49 ,"11,184",Introductory,Español,Computer Science
+601,Introducción a la Inteligencia Artificial: Principales Algoritmos,$49 ,,Introductory,Español,Computer Science
+602,Digital Security and Human Rights,$49 ,"11,443",Introductory,English,Social Sciences
+603,Critical thinking: reasoned decision making,$149 ,"6,923",Introductory,English,Business & Management
+604,Introduction to the Internet of Things,$50 ,"7,581",Introductory,English,Electronics
+605,Trading - Fundamentals of Technical Analysis,$199 ,,Introductory,English,Economics & Finance
+606,Riñones: conoce sus funciones para mejorar tu salud y calidad de vida,$49 ,"20,261",Introductory,Español,Medicine
+607,Design Thinking: Empathizing to Understand the Problem,$299 ,"13,340",Intermediate,English,Business & Management
+608,Storytelling in the Workplace,$199 ,,Introductory,English,Communication
+609,Marketing Analytics: Price and Promotion Analytics,$249 ,"41,021",Intermediate,English,Computer Science
+610,Implementation of Data Structures,$149 ,"27,761",Intermediate,English,Computer Science
+611,Activism and Citizen Journalism through Media,$49 ,"7,460",Introductory,English,Communication
+612,Electric and Conventional Vehicles,$249 ,"22,089",Advanced,English,Engineering
+613,Big Data Fundamentals,$199 ,"40,106",Intermediate,English,Computer Science
+614,Sustainable Food Security: The value of systems thinking,$49 ,"26,600",Introductory,English,Biology & Life Sciences
+615,Knowledge Management and Big Data in Business,$50 ,"69,064",Introductory,English,Business & Management
+616,Uso efectivo del tiempo,$49 ,"6,409",Introductory,Español,Economics & Finance
+617,C Programming: Pointers and Memory Management,$49 ,"19,171",Introductory,English,Computer Science
+618,Astrophysics: The Violent Universe,$50 ,"65,711",Intermediate,English,Physics
+619,Landscape Ecology,$50 ,"8,644",Intermediate,English,Environmental Studies
+620,IoT Programming and Big Data,$199 ,"21,591",Introductory,English,Computer Science
+621,AWS: Getting Started with Cloud Security,$49 ,"8,192",Introductory,English,Computer Science
+622,Introducción a la gravedad cuántica de lazos,$50 ,"7,360",Introductory,Español,Science
+623,Introduction to the Music Business,$49 ,"46,607",Introductory,English,Business & Management
+624,Introducción a la programación en C: Tipos de datos y estructuras,$49 ,"13,480",Introductory,Español,Computer Science
+625,Visualización de Datos y Storytelling,$49 ,"5,980",Intermediate,Español,Data Analysis & Statistics
+626,Negociación exitosa: Estrategias y habilidades esenciales (en español),$49 ,,Introductory,Español,Business & Management
+627,"Feeding a Hungry Planet: Agriculture, Nutrition and Sustainability",$49 ,"10,488",Intermediate,English,Environmental Studies
+628,Macroeconomics - The Basics,$79 ,,Introductory,English,Economics & Finance
+629,Fundamentals of Financial Mathematics and Capital Budgeting,$99 ,"5,410",Introductory,English,Economics & Finance
+630,Gestión participativa: motivación y liderazgo organizacional,$79 ,"23,441",Intermediate,Español,Business & Management
+631,Herramientas de ciencia de datos: uso práctico,$39 ,,Introductory,Español,Data Analysis & Statistics
+632,Bienestar para el desarrollo personal y profesional,$29 ,,Intermediate,Español,Health & Safety
+633,Energía eléctrica: conceptos y principios básicos,$49 ,"9,762",Intermediate,Español,Engineering
+634,Market Segmentation Analysis,$99 ,"17,055",Intermediate,English,Business & Management
+635,Pensamento crítico: tomada de decisões fundamentadas,$149 ,,Introductory,Português,Business & Management
+636,AP® English Literature & Composition – Part 2: Poems,$49 ,"5,719",Introductory,English,Humanities
+637,"Electrical, Optical & Magnetic Materials and Devices",$150 ,"16,905",Intermediate,English,Engineering
+638,Advanced Cardiac Imaging: Cardiac Computed Tomography (CT),$99 ,,Introductory,English,Medicine
+639,How to Design a Successful Business Model,$99 ,"33,656",Introductory,English,Business & Management
+640,Ecodesign for Cities and Suburbs,$99 ,"28,472",Introductory,English,Environmental Studies
+641,Agile Software Development,$50 ,"37,158",Introductory,English,Computer Science
+642,Diseño de sistemas de información gerencial para intranet con Microsoft Access,$49 ,"9,144",Intermediate,Español,Computer Science
+643,Essentials of Program Strategy and Evaluation,$50 ,,Introductory,English,Philanthropy
+644,Gestão de Projetos de Desenvolvimento,$49 ,"28,337",Introductory,Português,Business & Management
+645,Innovation: From Plan to Product,$249 ,"12,918",Intermediate,English,Business & Management
+646,Introduction to Database Queries,$166 ,,Introductory,English,Computer Science
+647,Climate Change: Carbon Capture and Storage,$49 ,"10,551",Introductory,English,Engineering
+648,Reservoir Geomechanics,$129 ,"5,280",Introductory,English,Energy & Earth Sciences
+649,Fundamentos de administración estratégica,$49 ,,Intermediate,Español,Business & Management
+650,IoT System Architecture: Design and Evaluation,$99 ,"5,914",Introductory,English,Computer Science
+651,Noongar Language and Culture,$139 ,"10,858",Introductory,English,Language
+652,Sorting Truth From Fiction: Civic Online Reasoning,$49 ,,Introductory,English,Education & Teacher Training
+653,Sustainable Food Security: Food Access,$49 ,"18,943",Introductory,English,Social Sciences
+654,Bases Matemáticas: Integrales,$50 ,"23,703",Introductory,Español,Math
+655,Epidemics II,$139 ,"8,565",Introductory,English,Medicine
+656,Derechos humanos: Los derechos de las personas refugiadas,$49 ,"28,398",Introductory,Español,Humanities
+657,Sign Language Science: Factors Contributing to Natural Learning,$99 ,,Introductory,English,Language
+658,Big Data Analytics,$199 ,"43,009",Intermediate,English,Computer Science
+659,"A-level Mathematics for Year 13 - Course 1: Functions, Sequences and Series, and Numerical Methods",$49 ,"6,594",Intermediate,English,Math
+660,ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible,$25 ,"16,028",Introductory,Español,Social Sciences
+661,Achieving Product-Market Fit,$199 ,,Introductory,English,Business & Management
+662,Culture and Law: The East Asian Perspective,$49 ,,Introductory,English,Social Sciences
+663,Fundamentals of Market Structure,$25 ,"32,049",Introductory,English,Economics & Finance
+664,Protecting Children in Humanitarian Settings,$50 ,"7,246",Intermediate,English,Social Sciences
+665,How to Achieve the Sustainable Development Goals,$49 ,"12,719",Intermediate,English,Environmental Studies
+666,Aprendizaje y Enseñanza en la Era Digital,$49 ,"16,954",Intermediate,Español,Education & Teacher Training
+667,From Atoms to Stars: How Physics Explains Our World,$49 ,"15,914",Intermediate,English,Physics
+668,The Threat of Nuclear Terrorism,$50 ,,Introductory,English,History
+669,Introducción a Matemáticas para Finanzas y Negocios,$49.99 ,,Advanced,Español,Economics & Finance
+670,Ingeniería de aeropuertos: diseño del lado aire según OACI (ICAO),$75 ,,Intermediate,Español,Engineering
+671,Liderazgo inclusivo,$29 ,,Intermediate,Español,Business & Management
+672,مساق اللّغة العربيّة,$49 ,,Introductory,اللغة العربية,Language
+673,"Architecture, Algorithms, and Protocols of a Quantum Computer and Quantum Internet",$79 ,"8,330",Intermediate,English,Physics
+674,Contemporary Issues in World Politics,$59 ,"11,426",Introductory,English,Social Sciences
+675,More Fun with Prime Numbers,$49 ,"10,604",Intermediate,English,Math
+676,Enterprise Selling,$149 ,"5,020",Introductory,English,Business & Management
+677,Climate Change: Financial Risks and Opportunities,$79 ,"9,977",Intermediate,English,Economics & Finance
+678,Caer o No caer. El Secreto de las Estructuras.,$29 ,"20,939",Introductory,Español,Engineering
+679,Mandarin Chinese Level 2,$149 ,"8,784",Introductory,English,Language
+680,Design Thinking: Prototyping and User Testing,$299 ,"10,769",Intermediate,English,Business & Management
+681,Bases Matemáticas: Derivadas,$50 ,"24,301",Introductory,Español,Math
+682,Buscar en Internet,$49 ,"27,320",Introductory,Español,Computer Science
+683,Big Data and Education,$169 ,"14,909",Advanced,English,Data Analysis & Statistics
+684,Model-Based Automotive Systems Engineering,$249 ,"13,857",Advanced,English,Engineering
+685,Introduction to Hyperledger Blockchain Technologies,$199 ,"138,884",Introductory,English,Business & Management
+686,MathTrackX: Integral Calculus,$79 ,,Introductory,English,Math
+687,Solar Energy Engineering: Comprehensive Exams,$250 ,,Advanced,English,Engineering
+688,Mercados de capital y participantes claves,$49 ,"7,210",Introductory,Español,Economics & Finance
+689,Introducción al desarrollo de videojuegos con Unity,$50 ,"27,474",Intermediate,Español,Computer Science
+690,Incorporating Renewable Energy in Electricity Grids,$49 ,"10,430",Intermediate,English,Energy & Earth Sciences
+691,Herramientas de la Inteligencia de Negocios,$49 ,"24,130",Introductory,Español,Data Analysis & Statistics
+692,Overview & Management of Parkinson’s Disease,$49 ,,Intermediate,English,Medicine
+693,Conociendo los costos,$49 ,,Intermediate,Español,Economics & Finance
+694,Sprint Planning for Faster Agile Team Delivery,$199 ,"10,654",Advanced,English,Engineering
+695,Introduction to Water and Climate,$50 ,"36,320",Intermediate,English,Engineering
+696,The Medieval Icelandic Sagas,$50 ,"11,176",Intermediate,English,Humanities
+697,Visual Presentation,$199 ,,Introductory,English,Communication
+698,Community Engagement: Collaborating for Change,$49 ,"11,818",Introductory,English,Social Sciences
+699,Introducción al Internet de las Cosas (IoT),$50 ,"6,322",Introductory,Español,Electronics
+700,"Proteins: Alignment, Analysis and Structure",$249 ,"23,560",Advanced,English,Biology & Life Sciences
+701,AI Applications with Watson,$99 ,"9,173",Intermediate,English,Computer Science
+702,Data Analytics and Visualization in Health Care,$249 ,"7,304",Advanced,English,Data Analysis & Statistics
+703,Question Everything: Scientific Thinking in Real Life,$59 ,"34,279",Introductory,English,Math
+704,Introduction to Lifestyle Medicine,$79 ,"9,002",Introductory,English,Biology & Life Sciences
+705,"Social Work Practice with Individuals, Families, and Small Groups",$199 ,"16,134",Advanced,English,Social Sciences
+706,Gateway to Medicine: An Introduction to the Field of Medicine|走近医学,$49 ,"6,938",Introductory,中文,Medicine
+707,Indian & Tibetan River of Buddhism,$49.99 ,"6,738",Intermediate,English,Humanities
+708,Compostaje Orgánico en Casa,$29 ,,Introductory,Español,Environmental Studies
+709,Financial Analysis for Decision Making,$199 ,"39,156",Introductory,English,Business & Management
+710,Lifestyle Medicine Treatments of Chronic Disease – Part 1,$179 ,"5,668",Intermediate,English,Medicine
+711,Building Containerized Applications on AWS,$99 ,"6,128",Intermediate,English,Computer Science
+712,Effective Communication for Program and Project Stakeholders and Teams,$199 ,,Introductory,English,Business & Management
+713,Biobased Products for a Sustainable (Bio)economy,$50 ,"6,951",Introductory,English,Biology & Life Sciences
+714,Social Work Practice: Advocating Social Justice and Change,$49 ,"19,603",Introductory,English,Social Sciences
+715,Anthropology of Current World Issues,$99 ,"44,821",Introductory,English,Humanities
+716,Buyer Behaviour and Analysis,$199 ,"19,717",Advanced,English,Communication
+717,Idea Development: Create and Implement Innovative Ideas,$249 ,"11,501",Intermediate,English,Business & Management
+718,Analysis of Transport Phenomena I: Mathematical Methods,$149 ,"9,169",Advanced,English,Engineering
+719,Leading the Organization,$249 ,"14,998",Intermediate,English,Business & Management
+720,"Financial Programming and Policies, Part 2: Program Design",$25 ,"19,330",Intermediate,English,Economics & Finance
+721,Introduction to Open Source Networking Technologies,$169 ,"17,436",Introductory,English,Computer Science
+722,Deep Learning Essentials,$149 ,"5,018",Intermediate,English,Computer Science
+723,Estadística Aplicada a los Negocios,$49 ,"25,295",Introductory,Español,Data Analysis & Statistics
+724,"English for Journalists, Part 2",$49 ,"22,814",Intermediate,English,Communication
+725,Teaching & Learning in the Diverse Classroom,$99 ,"7,104",Introductory,English,Education & Teacher Training
+726,Fundamentals of Microeconomics | Fundamentos de Microeconomía,$129 ,"18,456",Introductory,English,Social Sciences
+727,Migrating to the AWS Cloud,$49 ,,Intermediate,English,Computer Science
+728,IoT Networks and Protocols,$199 ,"22,136",Introductory,English,Computer Science
+729,"American Prophet: The Inner Life and Global Vision of Martin Luther King, Jr.",$50 ,,Introductory,English,History
+730,China’s First Empires and the Rise of Buddhism,$139 ,"46,053",Introductory,English,History
+731,Apnea y Trastornos del Sueño,$49 ,"14,902",Introductory,Español,Health & Safety
+732,Educación sobre el cambio climático,$25 ,"23,253",Introductory,Español,Education & Teacher Training
+733,Quantum Mechanics: A First Course,$149 ,,Advanced,English,Physics
+734,Urban Sewage Treatment,$50 ,"40,408",Intermediate,English,Engineering
+735,Doing Gender and Why it Matters,$99 ,"6,826",Introductory,English,Social Sciences
+736,Producción musical y su efecto en la composición,$49 ,"7,869",Introductory,Español,Music
+737,"Principle of Semiconductor Devices Part I: Semiconductors, PN Junctions and Bipolar Junction Transistors",$70 ,"12,425",Intermediate,English,Electronics
+738,"19th-Century Opera: Meyerbeer, Wagner, & Verdi",$99 ,"9,340",Introductory,English,Music
+739,Modelos predictivos con Machine Learning,$49 ,"5,102",Intermediate,Español,Computer Science
+740,Quantitative Marketing Research,$50 ,,Introductory,English,Business & Management
+741,Les fondements de la stratégie d’entreprise,$150 ,"33,021",Introductory,Français,Business & Management
+742,Solar Energy: Integration of Photovoltaic Systems in Microgrids,$250 ,"20,068",Advanced,English,Engineering
+743,"Automated Software Testing: Unit Testing, Coverage Criteria and Design for Testability",$99 ,"12,630",Intermediate,English,Computer Science
+744,Probability and Statistics I:  A Gentle Introduction to Probability,$199 ,,Intermediate,English,Data Analysis & Statistics
+745,Introducción a las ecuaciones diferenciales,$49 ,"9,868",Intermediate,Español,Math
+746,Agile Mindset Introduction,$49 ,,Introductory,English,Data Analysis & Statistics
+747,Tropical coastal ecosystems,$99 ,"23,031",Introductory,English,Biology & Life Sciences
+748,Modern China’s Foundations: The Manchus and the Qing,$139 ,"47,166",Introductory,English,History
+749,El método de ciencia de datos,$39 ,,Introductory,Español,Data Analysis & Statistics
+750,AWS Developer: Deploying on AWS,$149 ,"25,244",Advanced,English,Computer Science
+751,Autonomous Mobile Robots,$50 ,"62,362",Intermediate,English,Computer Science
+752,Gestión por resultados para gobiernos subnacionales,$25 ,"65,955",Introductory,Español,Business & Management
+753,Introduction to Sociology,$139 ,"10,412",Introductory,English,Social Sciences
+754,Transformación digital en las empresas,$49 ,,Introductory,Español,Business & Management
+755,Desafios e oportunidades na economia digital,$25 ,"6,913",Introductory,Português,Economics & Finance
+756,"Cellular Solids Part 1: Structures, Properties and Engineering Applications",$99 ,"7,186",Advanced,English,Engineering
+757,Introduction to Statistical Methods for Gene Mapping,$49 ,"15,419",Advanced,English,Data Analysis & Statistics
+758,Cómo vivir una vida saludable y activa,$49 ,"8,990",Introductory,Español,Social Sciences
+759,Mandarin Chinese Level 3,$149 ,"8,418",Intermediate,English,Language
+760,Databases: Advanced Topics in SQL,$50 ,,Introductory,English,Computer Science
+761,Data for Effective Policy Making,$25 ,"13,797",Introductory,English,Math
+762,C Programming: Using Linux Tools and Libraries,$49 ,"13,912",Intermediate,English,Computer Science
+763,Lernen objekt-orientierter Programmierung,$49 ,"10,657",Introductory,Deutsch,Computer Science
+764,Cybersecurity: The CISO's View,$199 ,"21,507",Introductory,English,Computer Science
+765,Fundamentals of Java EE Development,$99 ,"10,129",Intermediate,English,Computer Science
+766,"Instructional Design: Digital Media, New Tools and Technology",$299 ,"16,419",Intermediate,English,Education & Teacher Training
+767,Molecular Biology – Part 3: RNA Processing and Translation,$99 ,"16,520",Advanced,English,Biology & Life Sciences
+768,Power and Responsibility: Doing Philosophy with Superheroes,$49 ,"8,517",Introductory,English,Art & Culture
+769,Aprendizaje automático y ciencia de datos,$50 ,"13,994",Intermediate,Español,Computer Science
+770,Sustainable Urban Freight Transport: A Global Perspective,$50 ,"7,769",Introductory,English,Engineering
+771,MathTrackX: Statistics,$79 ,,Introductory,English,Math
+772,Técnicas Cuantitativas y Cualitativas para la Investigación,$65 ,"29,885",Intermediate,Español,Data Analysis & Statistics
+773,Strategic Applications of IT Project & Program Management,$199 ,"17,914",Introductory,English,Business & Management
+774,Advanced Bioconductor,$149 ,"26,063",Advanced,English,Data Analysis & Statistics
+775,What Every Provider Should Know: Clinical Fundamentals,$50 ,,Introductory,English,Medicine
+776,Análisis e interpretación de información económica y financiera,$49 ,"5,891",Intermediate,Español,Economics & Finance
+777,AWS IoT: Developing and Deploying an Internet of Things,$99 ,"8,884",Intermediate,English,Computer Science
+778,Measuring Sustainable Development,$25 ,,Intermediate,English,Data Analysis & Statistics
+779,Embedded Systems - Shape The World: Multi-Threaded Interfacing,$49 ,"27,814",Intermediate,English,Computer Science
+780,Hong Kong Cinema through a Global Lens | 全球化下的香港电影,$50 ,"12,458",Introductory,English,Humanities
+781,Image Processing and Analysis for Life Scientists,$199 ,"8,621",Intermediate,English,Data Analysis & Statistics
+782,La protección del menor,$49 ,"7,654",Introductory,Español,Law
+783,Globalization: Past and Future,$25 ,"10,127",Introductory,English,History
+784,Star Trek: Inspiring Culture and Technology,$40 ,"6,521",Introductory,English,History
+785,Qué funciona en educación: políticas educativas basadas en evidencia,$25 ,"15,701",Introductory,Español,Education & Teacher Training
+786,"Introduction to Cloud Development with HTML5, CSS3, and JavaScript",$99 ,,Introductory,English,Computer Science
+787,Tools for Academic Engagement in Public Policy,$199 ,"5,035",Introductory,English,Communication
+788,Theory of Change for Development,$199 ,"10,736",Introductory,English,Social Sciences
+789,Monozukuri: Making Things,$49 ,,Introductory,English,Engineering
+790,Drug Discovery & Medicinal Chemistry,$99 ,,Intermediate,English,Medicine
+791,Digital Biomaterials,$149 ,,Introductory,English,Medicine
+792,Natural Resources for Sustainable Development,$49 ,"9,668",Intermediate,English,Energy & Earth Sciences
+793,Omnichannel Strategy and Management,$99 ,"15,860",Intermediate,English,Business & Management
+794,General Overview of Cannabis and the Industry’s Outlook and Professions,$199 ,"5,048",Introductory,English,Environmental Studies
+795,Amazon SageMaker: Simplifying Machine Learning Application Development,$99 ,"11,765",Intermediate,English,Computer Science
+796,Formulación y nomenclatura de compuestos químicos,$49 ,"12,748",Introductory,Español,Chemistry
+797,Introducción a la factura electrónica,$49.90 ,"5,829",Intermediate,Español,Economics & Finance
+798,Demand and Supply Analytics,$249 ,"23,585",Intermediate,English,Business & Management
+799,Advanced Algorithmics and Graph Theory with Python,$49 ,"13,502",Intermediate,English,Computer Science
+800,Modern Japanese Architecture Part 1: From Meiji Restoration to the Pacific War,$59 ,,Intermediate,English,Architecture
+801,Diagramas UML estructurales para la Ingeniería del Software,$50 ,"5,820",Introductory,Español,Computer Science
+802,"A-level Mathematics for Year 12 - Course 2: Calculus, Newton’s Laws and Hypothesis Testing",$49 ,"6,232",Intermediate,English,Math
+803,Fundamentos de Mecánica para Ingeniería,$49 ,"14,219",Introductory,Español,Physics
+804,Leadership and Management for PM Practitioners in IT,$199 ,"21,949",Introductory,English,Business & Management
+805,Entrepreneurship 103: Show Me The Money,$300 ,"15,184",Introductory,English,Business & Management
+806,Historia de la ética,$29 ,"9,383",Introductory,Español,Philosophy & Ethics
+807,Drainage in Agriculture: controlling water and salt levels in the soil,$49 ,,Advanced,English,Environmental Studies
+808,Radio para internet con Podcast: creación y conceptos básicos,$50 ,"6,460",Introductory,Español,Communication
+809,Introducción a los circuitos eléctricos,$49 ,"11,953",Intermediate,Español,Electronics
+810,AP® Physics 1: Challenging Concepts,$49 ,"12,145",Introductory,English,Physics
+811,Introduction to Java Programming – Part 2,$99 ,"71,203",Introductory,English,Computer Science
+812,AP® Macroeconomics,$49 ,"29,433",Introductory,English,Economics & Finance
+813,Climate Change Education,$25 ,"12,056",Introductory,English,Education & Teacher Training
+814,"Introducción al griego clásico: verbos, oraciones y filosofía",$49 ,,Introductory,Español,Language
+815,Applied Deep Learning Capstone Project,$99 ,"8,429",Advanced,English,Data Analysis & Statistics
+816,FinTech Ethics and Risks,$199 ,"10,696",Introductory,English,Economics & Finance
+817,User Experience (UX) Design: Human Factors and Culture in Design | 设计的人因与文化,$139 ,"23,828",Advanced,English,Engineering
+818,The Conquest of Space: Space Exploration and Rocket Science,$129 ,"19,926",Introductory,English,Engineering
+819,Business Strategy and Operations in a Biobased Economy,$149 ,,Advanced,English,Business & Management
+820,What Works in Education: Evidence-Based Education Policies,$25 ,"5,540",Introductory,English,Education & Teacher Training
+821,Electric Cars: Business,$50 ,"14,199",Intermediate,English,Business & Management
+822,Thermodynamics of Materials,$150 ,,Intermediate,English,Engineering
+823,Mechanics: Momentum and Energy,$49 ,"14,846",Intermediate,English,Physics
+824,Co-Creating Sustainable Cities,$49 ,"12,415",Advanced,English,Social Sciences
+825,Cómo educar teniendo en cuenta la muerte,$49 ,,Introductory,Español,Education & Teacher Training
+826,Introduction to Animal Ethics,$49 ,"6,608",Introductory,English,Philosophy & Ethics
+827,Teamwork & Collaboration,$199 ,,Introductory,English,Communication
+828,Grant Writing and Crowdfunding for Public Libraries,$49 ,"12,853",Introductory,English,Humanities
+829,Leading Ambitious Teaching and Learning,$199 ,"24,273",Advanced,English,Education & Teacher Training
+830,Financing Innovative Ventures,$149 ,,Introductory,English,Business & Management
+831,"A-level Mathematics for Year 13 - Course 2: General Motion, Moments and Equilibrium, The Normal Distribution, Vectors, Differentiation Methods, Integration Methods and Differential Equations",$49 ,,Intermediate,English,Math
+832,Theories of Media and Technology,$249 ,,Introductory,English,Art & Culture
+833,Introducción a la Estructura de la Materia,$25 ,"11,859",Introductory,Español,Chemistry
+834,"Batteries, Fuel Cells, and their Role in Modern Society",$49 ,"11,865",Introductory,English,Science
+835,Communication Skills for Dialoguing Across Difference,$25 ,"60,943",Introductory,English,Communication
+836,Social Media: How Media Got Social,$139 ,"13,616",Introductory,English,Communication
+837,"Portfolio Management, Governance, & the PMO",$199 ,"17,299",Introductory,English,Business & Management
+838,edX101: Overview of Creating an edX Course,$99 ,"22,327",Introductory,English,Education & Teacher Training
+839,"Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones",$49 ,,Introductory,Español,Education & Teacher Training
+840,Data Analysis for Decision Making,$214 ,"8,342",Advanced,English,Business & Management
+841,UML Class Diagrams for Software Engineering,$49 ,"33,710",Introductory,English,Computer Science
+842,Driving Digital Innovation through Experimentation,$399 ,"16,904",Advanced,English,Computer Science
+843,Compilation Basics for Macroeconomic Statistics,$25 ,"6,570",Introductory,English,Data Analysis & Statistics
+844,Seguridad Vial en América Latina y el Caribe: de la teoría a la acción,$25 ,"20,189",Introductory,Español,Engineering
+845,From Fossil Resources to Biomass: A Chemistry Perspective,$149 ,"5,464",Advanced,English,Energy & Earth Sciences
+846,System Dynamics for Health Sciences,$139 ,"15,157",Intermediate,English,Medicine
+847,Internet de las cosas (IoT) y Big Data,$49 ,,Intermediate,Español,Data Analysis & Statistics
+848,Introducción a Ciencias de Datos y Estadística Básica para Negocios,$49.99 ,,Advanced,Español,Data Analysis & Statistics
+849,Introduction to Psychological Research Methods,$99 ,"17,087",Introductory,English,Humanities
+850,Sustainable Packaging in a Circular Economy,$50 ,"6,277",Intermediate,English,Design
+851,Design in Healthcare: Using Patient Journey Mapping,$129 ,"17,946",Introductory,English,Design
+852,"El manejo de plagas, malezas y enfermedades en los Sistemas de Siembra Directa",$99 ,,Intermediate,Español,Biology & Life Sciences
+853,"Electronic, Optical, and Magnetic Properties of Materials",$150 ,"9,717",Advanced,English,Engineering
+854,La España del Quijote,$19 ,"13,277",Introductory,Español,History
+855,Risk Management for Projects,$199 ,"22,269",Introductory,English,Business & Management
+856,Smithsonian’s Objects That Define America,$50 ,"9,071",Introductory,English,Humanities
+857,Creating Modern China: The Republican Period to the Present,$139 ,"43,045",Introductory,English,History
+858,Discover Political Science,$50 ,"6,573",Intermediate,English,Social Sciences
+859,Data Science: Inferential Thinking through Simulations,$199 ,"17,505",Introductory,English,Computer Science
+860,Programming for Data Science,$199 ,"41,268",Introductory,English,Computer Science
+861,Public Sector Debt Statistics,$25 ,,Intermediate,English,Economics & Finance
+862,Sensor Fusion and Non-linear Filtering for Automotive Systems,$299 ,"9,709",Advanced,English,Engineering
+863,Creación musical con Soundcool: Introducción,$30 ,,Introductory,Español,Music
+864,First Nights - Berlioz’s Symphonie Fantastique and Program Music in the 19th Century,$49 ,"8,222",Introductory,English,Humanities
+865,The Quantum Internet and Quantum Computers: How Will They Change the World?,$50 ,"15,014",Introductory,English,Science
+866,Research Methods: An Engineering Approach,$169 ,"20,444",Introductory,English,Engineering
+867,Idealismo filosófico y cosmovisiones: cómo hacer mundos con ideas,$49 ,"15,349",Introductory,Español,Philosophy & Ethics
+868,Rise to Leadership: Become a CEO,$199 ,"16,719",Intermediate,English,Business & Management
+869,Building a Cybersecurity Toolkit,$199 ,"23,275",Introductory,English,Computer Science
+870,Marketing your Android apps,$49 ,,Intermediate,English,Engineering
+871,Embedded Systems Essentials with Arm: Getting Started,$149 ,,Intermediate,English,Computer Science
+872,Life with Diabetes,$139 ,"12,318",Introductory,English,Medicine
+873,Human Reproduction,$169 ,"5,517",Intermediate,English,Biology & Life Sciences
+874,Enabling Technologies for Data Science and Analytics: The Internet of Things,$99 ,"71,290",Introductory,English,Computer Science
+875,Astrophysics: Exploring Exoplanets,$50 ,"48,539",Intermediate,English,Physics
+876,Unconventional Reservoir Geomechanics,$129 ,,Introductory,English,Energy & Earth Sciences
+877,Strategic Account Management,$149 ,,Introductory,English,Business & Management
+878,PyTorch Basics for Machine Learning,$39 ,,Introductory,English,Data Analysis & Statistics
+879,Diseño y Desarrollo de Recursos Multimedia para la Enseñanza Virtual,$49 ,"14,266",Intermediate,Español,Humanities
+880,Introduction to Cloud Foundry and Cloud Native Software Architecture,$169 ,"24,444",Introductory,English,Computer Science
+881,Gestión de compras eficientes para tu empresa,$25 ,,Introductory,Español,Engineering
+882,Know HBV And HCV,$50 ,,Introductory,English,Medicine
+883,The Supreme Court & American Politics,$29 ,"6,216",Introductory,English,Law
+884,Sales Enablement & Analytics,$149 ,,Introductory,English,Business & Management
+885,Inversión Extranjera como Motor del Desarrollo para América Latina y el Caribe,$25 ,"16,423",Intermediate,Español,Business & Management
+886,Liderazgo en la empresa familiar,$49 ,"10,969",Intermediate,Español,Business & Management
+887,Comparative Political Systems,$59 ,"6,934",Introductory,English,Social Sciences
+888,Introducción al Derecho en la vida cotidiana,$49 ,,Introductory,Español,Law
+889,Cloud Computing for Enterprises,$299 ,"27,241",Intermediate,English,Computer Science
+890,Diversity and Social Justice in Social Work,$199 ,"11,055",Advanced,English,Social Sciences
+891,Public Library Marketing and Public Relations,$49 ,"7,525",Introductory,English,Humanities
+892,"Healthcare Finance, Economics and Risk",$199 ,"8,006",Intermediate,English,Economics & Finance
+893,Reacciones Químicas y Cálculos Estequiométricos,$49 ,"8,907",Introductory,Español,Chemistry
+894,Seeking Women’s Rights: Colonial Period to the Civil War,$50 ,"5,157",Intermediate,English,History
+895,VideoX: Creating Video for the edX Platform,$99 ,"12,159",Introductory,English,Education & Teacher Training
+896,Comisión de la Verdad Colombia,$29 ,,Introductory,Español,History
+897,MathTrackX: Probability,$79 ,,Introductory,English,Math
+898,Health Informatics for better and safer healthcare,$49 ,,Introductory,English,Health & Safety
+899,Sign Language Science: Factors Contributing to Natural Change,$99 ,,Introductory,English,Language
+900,Accounting System Structure and Information Management,$50 ,,Introductory,English,Economics & Finance
+901,Sustainable Development: The Post-Capitalist Order,$49 ,"7,031",Introductory,English,Economics & Finance
+902,"Health Law, Policy, and Advocacy",$199 ,"6,358",Intermediate,English,Law
+903,Introduction to Haptics,$129 ,,Introductory,English,Engineering
+904,Gestión de inventario y portafolio,$25 ,,Introductory,Español,Engineering
+905,Understanding Nuclear Energy,$50 ,"16,015",Intermediate,English,Engineering
+906,Cómo Convertirse en un Líder Exitoso (Entrenamiento de Liderazgo Inclusivo),$50 ,"11,431",Introductory,Español,Business & Management
+907,Decision Making Under Uncertainty: Introduction to Structured Expert Judgment,$50 ,,Introductory,English,Business & Management
+908,AP® Calculus BC,$49 ,"8,542",Introductory,English,Math
+909,Advanced Linear Algebra: Foundations to Frontiers,$49 ,,Advanced,English,Computer Science
+910,Entrepreneurial Opportunities,$50 ,"27,182",Introductory,English,Business & Management
+911,Agua en América Latina: Abundancia en medio de la escasez mundial,$25 ,"38,581",Introductory,Español,Environmental Studies
+912,Understanding Political Concepts,$59 ,"7,421",Introductory,English,Social Sciences
+913,How to Code: Complex Data,$125 ,"34,190",Introductory,English,Computer Science
+914,Hypersonics – from Shock Waves to Scramjets,$99 ,"19,043",Advanced,English,Engineering
+915,Micro and Nanofabrication (MEMS),$199 ,"16,094",Advanced,English,Engineering
+916,Scientific Methods and Research,$49 ,"7,501",Intermediate,English,Science
+917,Customer Centric Marketing for Entrepreneurs,$149 ,"14,003",Intermediate,English,Business & Management
+918,Dog Behavior: Problems and Solutions,$169 ,"16,467",Intermediate,English,Social Sciences
+919,The Business of Mining,$139 ,"20,406",Introductory,English,Business & Management
+920,"Social Work Practice in Community Organization, Management and Policy/Evaluation",$199 ,"9,522",Advanced,English,Social Sciences
+921,The Business of Aging in the Longevity Economy,$139 ,,Introductory,English,Social Sciences
+922,Understanding the Australian Health Care System,$59 ,"8,343",Introductory,English,Medicine
+923,Age of Sustainable Development,$49 ,"10,019",Intermediate,English,Social Sciences
+924,Internationalization: Creating Digital Content for the World,$199 ,,Advanced,English,Computer Science
+925,Multi-Object Tracking for Automotive Systems,$249 ,"8,581",Advanced,English,Engineering
+926,Economics and Policies in a Biobased Economy,$149 ,,Advanced,English,Energy & Earth Sciences
+927,Strategic Leadership in Healthcare,$199 ,"6,237",Intermediate,English,Business & Management
+928,Terrorism and Counterterrorism: An Introduction,$49 ,"14,128",Introductory,English,Humanities
+929,Exploring Psychology's Core Concepts|走进心理学,$139 ,"5,741",Introductory,English,Social Sciences
+930,Creating Virtual Reality (VR) Apps,$99 ,"22,349",Intermediate,English,Computer Science
+931,Análisis Multivariable en SPSS,$49 ,,Introductory,Español,Data Analysis & Statistics
+932,Steps in Japanese for Beginners2 Part1,$99 ,,Introductory,English,Language
+933,"Competencias para buscar, mantener y promocionar en un empleo",$49 ,,Introductory,Español,Social Sciences
+934,Dynamics and Control,$50 ,"27,763",Introductory,English,Engineering
+935,Finding Your Cybersecurity Career Path,$199 ,"19,283",Introductory,English,Computer Science
+936,Introducción a la caligrafía y paleografía en archivos hispanos medievales y modernos,$29 ,"12,674",Introductory,Español,Humanities
+937,Mechanics: Rotational Dynamics,$49 ,"13,183",Intermediate,English,Physics
+938,Applying Health Coaching in Patient Care,$199 ,,Introductory,English,Medicine
+939,Databases: Modeling and Theory,$50 ,,Introductory,English,Computer Science
+940,"Islamic Banking: Principles, Practice and Risk Management",$49 ,,Introductory,English,Economics & Finance
+941,Liderazgo orientado al florecimiento humano,$149 ,"7,911",Introductory,Español,Business & Management
+942,Software Construction: Object-Oriented Design,$125 ,"23,100",Intermediate,English,Computer Science
+943,"Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa",$199 ,,Introductory,English,Computer Science
+944,Fondements de l’économie sociale et solidaire,$50 ,,Intermediate,Français,Social Sciences
+945,The Civil War and Reconstruction - 1861 - 1865: A New Birth of Freedom,$50 ,"17,941",Introductory,English,History
+946,Innovation Strategies for Electric Mobility: The StreetScooter Case,$99 ,,Intermediate,English,Business & Management
+947,Sustainable Energy,$149 ,,Advanced,English,Energy & Earth Sciences
+948,Designing and Leading Learning Systems,$199 ,"11,895",Advanced,English,Education & Teacher Training
+949,How the U.S. Government Works & How to Get Involved,$49 ,"5,930",Introductory,English,Social Sciences
+950,Inspiring and Motivating Arts and Culture Teams,$49 ,"10,817",Introductory,English,Business & Management
+951,Principles of Microeconomics: An Economist Way of Thinking,$149 ,,Intermediate,English,Economics & Finance
+952,A System View of Communications: From Signals to Packets (Part 1),$60 ,"34,261",Introductory,English,Computer Science
+953,"Invasions, Rebellions, and the Fall of Imperial China",$139 ,"41,537",Introductory,English,History
+954,AP® English Literature & Composition – Part 3: Plays,$49 ,"6,443",Introductory,English,Humanities
+955,Cómo implantar grupos de mejora de procesos,$150 ,"28,100",Introductory,Español,Business & Management
+956,Proteins: Biology's Workforce,$169 ,"25,893",Intermediate,English,Biology & Life Sciences
+957,Introducción a los ritmos y relojes biológicos,$50 ,"6,149",Introductory,Español,Science
+958,Linear Algebra I: Linear Equations,$199 ,,Intermediate,English,Math
+959,"Fundamentals of Biomedical Imaging: Ultrasounds, X-ray, positron emission tomography (PET) and applications",$169 ,"10,205",Advanced,English,Engineering
+960,Fundamentos de Electromagnetismo para Ingeniería,$49 ,"15,040",Introductory,Español,Physics
+961,Sustainable Food Systems: A Mediterranean Perspective,$49 ,"6,480",Intermediate,English,Food & Nutrition
+962,Scripting and Programming Foundations,$299.70 ,,Introductory,English,Computer Science
+963,Using GPUs to Scale and Speed-up Deep Learning,$99 ,"9,294",Intermediate,English,Data Analysis & Statistics
+964,StudioX: Creating a Course with edX Studio,$99 ,"20,355",Introductory,English,Education & Teacher Training
+965,The Power of Data,$49 ,,Introductory,English,Data Analysis & Statistics
+966,Introducción a las ondas gravitacionales,$50 ,"8,657",Introductory,Español,Science
+967,Drones and Autonomous Systems 2: Applications in Emergency Management,$149 ,,Intermediate,English,Science
+968,MathTrackX: Differential Calculus,$79 ,,Introductory,English,Math
+969,Global China: From the Mongols to the Ming,$139 ,"41,902",Introductory,English,History
+970,Leaders in Citizen Security and Justice Management for the Caribbean,$25 ,,Intermediate,English,Social Sciences
+971,Pattern Studying and Making | 图案审美与创作,$139 ,,Introductory,中文,Art & Culture
+972,Computational Neuroscience: Neuronal Dynamics of Cognition,$139 ,"11,246",Advanced,English,Biology & Life Sciences
+973,Cities and the Challenge of Sustainable Development,$25 ,"8,775",Introductory,English,Environmental Studies
+974,MathTrackX: Special Functions,$79 ,,Introductory,English,Math
