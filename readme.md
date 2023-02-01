@@ -23,7 +23,7 @@ Procedí a guardar los datasets como archivos nuevos para no alterar los que nos
 
 **WordCloud** </br>
 En un notebook aparte decidí realizar el WordCloud de los títulos de los cursos de cada plataforma por separado. Empecé separando la columna de los nombres de los cursos de los datasets y guardándolos en archivos '.csv'.Luego normalicé la columna de títulos para poder realizar un merge de las tres plataformas y así conseguir la nube de palabras correspondiente al resultado de la unión de los datasets.
-Utilicé la librería de WordCloud para separar aquellas palabras que quería visualizar; y Matplotlib para poder crear las imagenes con el respectivo WordCloud. Los resultados, además de poderlos visualizar en el notebook, también fueron descargados como archivos '.png' y guardados en la carpeta WC_TITLES.
+Utilicé la librería de WordCloud para separar aquellas palabras que quería visualizar; y Matplotlib para poder crear las imagenes con el respectivo WordCloud. Los resultados, además de poderlos visualizar en el notebook, también fueron descargados como archivos '.png' y guardados en la carpeta WordCloud.
 
 **Dashboard** </br>
 El dashboard lo confeccioné en el archivo dashboard.py, donde utilicé la librería de Streamlit y de Plotly para crear mi presentación visual conformada con los gráficos y los diferentes análisis de mi trabajo sobre los datasets.
